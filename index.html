@@ -5,13 +5,32 @@
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>Ruizhong Qiu</title>
 <link href="assets/bootstrap.min.css?v=5.3.0-alpha1" rel="stylesheet" type="text/css" />
-<link href="assets/style.css?t=1735613401" rel="stylesheet" type="text/css" />
+<link href="assets/style.css?t=1735796014" rel="stylesheet" type="text/css" />
 </head>
-<body>
+<body class="fixed-top-navbar">
+<nav class="navbar navbar-expand-sm fixed-top bg-light border-bottom">
 <div class="container">
 <div class="row">
 <div class="col"></div>
-<div class="col-auto col-md-11 col-lg-9 col-xl-7"><div class="row">
+<div class="col-auto col-md-11 col-lg-9 col-xl-7 navbar-collapse collapse">
+<a class="navbar-brand" href="#">Ruizhong Qiu</a>
+<!--- button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+<span class="navbar-toggler-icon"></span>
+</button --->
+<ul class="navbar-nav me-auto">
+<li class="nav-item"><a class="nav-link" href="#education">Education</a></li>
+<li class="nav-item"><a class="nav-link" href="#publications">Publications</a></li>
+<li class="nav-item"><a class="nav-link" href="#experience">Experience</a></li>
+</ul>
+</div>
+</div>
+<div class="col"></div>
+</div>
+</nav>
+<div class="container">
+<div class="row">
+<div class="col"></div>
+<div class="col-auto col-md-11 col-lg-9 col-xl-7"><div class="row my-3">
 <div class="col-8">
 <h1>Ruizhong Qiu</h1>
 <section>
@@ -23,7 +42,6 @@ rq5 AT illinois DOT edu<br /><a href="https://scholar.google.com/citations?user=
 </div>
 <div class="col-1"></div></div>
 
-<h2 id="about">About</h2>
 <p>I am a Ph.D. student in computer science (CS) at the University of Illinois Urbana–Champaign (UIUC), fortunately advised by Professor <a href="http://tonghanghang.org">Hanghang Tong</a>. Prior to this, I received an M.S. degree in CS at UIUC and a B.E. degree in operations research and a minor in statistics at Tsinghua University.
 My research interests lie broadly in machine learning (ML), with a current emphasis on the following topics:</p>
 <ul>
@@ -36,11 +54,6 @@ My research interests lie broadly in machine learning (ML), with a current empha
 <ul>
 <li><strong>University of Illinois Urbana–Champaign</strong> | Siebel School of Computing and Data Science<br /><em>M.S. &amp; Ph.D. in Computer Science</em>, Fall 2022 – Spring 2027 (Expected)<br />Advisor: Professor <a href="http://tonghanghang.org/" target="_blank">Hanghang Tong</a></li>
 <li><strong>Tsinghua University</strong> | Department of Industrial Engineering<br /><em>B.E. in Operations Research &amp; Minor in Statistics</em>, Fall 2018 – Spring 2022</li>
-</ul>
-<h2 id="experience">Experience</h2>
-<ul>
-<li><strong>Qualcomm AI Research</strong> | <em>Research Intern</em><br /><em>Mixed-precision quantization of large vision models</em>, June – August 2024<br />Mentors: <a href="https://web.stanford.edu/~bbartan/" target="_blank">Burak Bartan</a>, <a href="https://weiliang-zeng.github.io" target="_blank">Weiliang Will Zeng</a></li>
-<li><strong>Qualcomm AI Research</strong> | <em>Research Intern</em><br /><em>Code generation with large language models</em>, May – August 2023<br />Mentor: <a href="https://weiliang-zeng.github.io" target="_blank">Weiliang Will Zeng</a></li>
 </ul>
 <h2 id="publications">Publications</h2>
 <h5 id="conference-papers">Conference Papers</h5>
@@ -69,7 +82,13 @@ My research interests lie broadly in machine learning (ML), with a current empha
 <li><a href="https://arxiv.org/abs/2404.04264" target="_blank">Logic query of thoughts: Guiding large language models to answer complex logic queries with knowledge graphs</a><br />Lihui Liu, Zihao Wang, <strong>Ruizhong Qiu</strong>, Yikun Ban, Eunice Chan, Yangqiu Song, Jingrui He, Hanghang Tong<br /><em>arXiv preprint</em>, 2024</li>
 </ul>
 <p><small>* Equal contribution.</small></p>
-<h2 id="awards">Awards</h2>
+<h2 id="experience">Experience</h2>
+<h5 id="work-experience">Work Experience</h5>
+<ul>
+<li><strong>Qualcomm AI Research</strong> | <em>Research Intern</em><br /><em>Mixed-precision quantization of large vision models</em>, June – August 2024<br />Mentors: <a href="https://web.stanford.edu/~bbartan/" target="_blank">Burak Bartan</a>, <a href="https://weiliang-zeng.github.io" target="_blank">Weiliang Will Zeng</a></li>
+<li><strong>Qualcomm AI Research</strong> | <em>Research Intern</em><br /><em>Code generation with large language models</em>, May – August 2023<br />Mentor: <a href="https://weiliang-zeng.github.io" target="_blank">Weiliang Will Zeng</a></li>
+</ul>
+<h5 id="awards">Awards</h5>
 <ul>
 <li><a href="https://www.businesswire.com/news/home/20230919861208/en/Siebel-Scholars-Foundation-Announces-Class-of-2024"><strong>Siebel Scholar</strong>, Class of 2024</a> (83 recipients in U.S.A., China, France, Italy, and Japan)</li>
 <li><strong>Conference Presentation Award</strong>, UIUC Graduate College, Fall 2022</li>
@@ -77,12 +96,12 @@ My research interests lie broadly in machine learning (ML), with a current empha
 <li><a href="https://icpc.global/regionals/finder/QingDao-2019/standings"><strong>Gold Medal (rank 6/353)</strong>, ACM International Collegiate Programming Contest (ICPC), Asia QingDao Regional, 2018</a></li>
 <li><a href="https://www.noi.cn/ccf/file/do?fid=8Y7EFHHQ&amp;attach=n"><strong>Silver Medal</strong>, National Olympiad in Informatics, China, 2017</a></li>
 </ul>
-<h2 id="invited-talks">Invited Talks</h2>
+<h5 id="invited-talks">Invited Talks</h5>
 <ul>
 <li><a href="https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=80561">Reconstructing graph diffusion history from a single snapshot, Minisymposium on New Frontier of Graph Machine Learning, SIAM Conference on Mathematics of Data Science (MDS), 2024</a></li>
 <li><a href="https://mp.weixin.qq.com/s/i27P6g2jkv3_WEUoZPbJ1A">DIMES: A differentiable meta solver for combinatorial optimization problems, AI Time, 2024</a></li>
 </ul>
-<h2 id="academic-service">Academic Service</h2>
+<h5 id="academic-service">Academic Service</h5>
 <ul>
 <li><strong>Reviewer</strong> (1 paper), WWW 2025</li>
 <li><strong>Reviewer</strong> (2 papers), AISTATS 2025</li>
@@ -95,7 +114,7 @@ My research interests lie broadly in machine learning (ML), with a current empha
 <div class="col"></div>
 </div>
 <div class="row">
-<div class="col"><footer><p class="text-center">Built by <a href="https://www.mkdocs.org/" target="_blank">MkDocs</a> on December 31, 2024</p></footer></div>
+<div class="col"><footer><p class="text-center">Built by <a href="https://www.mkdocs.org/" target="_blank">MkDocs</a> on January 2, 2025</p></footer></div>
 </div>
 </div>
 </body>
@@ -103,9 +122,8 @@ My research interests lie broadly in machine learning (ML), with a current empha
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-24FP6LZH8E"></script>
 <script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-24FP6LZH8E');
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'G-24FP6LZH8E');
 </script>
