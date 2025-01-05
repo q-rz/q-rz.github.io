@@ -2,6 +2,9 @@ body {
   font-family: "Roboto", Noto Sans, Open Sans, Helvetica Neue, Helvetica, Arial, PingFang SC, Heiti SC, STHeiti, Microsoft Yahei New, Microsoft Yahei, Source Han Sans SC, Noto Sans CJK SC, WenQuanYi Micro Hei, SimHei, Arial Unicode MS, sans-serif;
   font-weight: 300;
 }
+strong {
+  font-weight: 500;
+}
 h1,
 h2,
 h3,
@@ -10,6 +13,15 @@ h5,
 h6 {
   margin-top: 1em;
   margin-bottom: 0.5em;
+}
+h1 {
+  font-weight: 300;
+}
+h2,
+h3,
+h4,
+h5,
+h6 {
   font-weight: 400;
 }
 div {
