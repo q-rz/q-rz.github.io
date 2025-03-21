@@ -1,71 +1,73 @@
-[{"stream_name":"stderr","time":5.1857642760000005,"data":"--2025-01-03 22:36:13--  https://fonts.gstatic.com/s/roboto/v32/KFOlCnqEu92Fr1MmWUlfBBc9.ttf\n"}
-,{"stream_name":"stderr","time":5.192841871,"data":"Resolving fonts.gstatic.com (fonts.gstatic.com)... 74.125.135.94, 2607:f8b0:400e:c0c::5e\n"}
-,{"stream_name":"stderr","time":5.194205265,"data":"Connecting to fonts.gstatic.com (fonts.gstatic.com)|74.125.135.94|:443... connected.\n"}
-,{"stream_name":"stderr","time":5.213019367,"data":"HTTP request sent, awaiting response... 200 OK\n"}
-,{"stream_name":"stderr","time":5.213055349,"data":"Length: 43480 (42K) [font/ttf]\n"}
-,{"stream_name":"stderr","time":5.213227865,"data":"Saving to: ‘fonts/KFOlCnqEu92Fr1MmWUlfBBc9.ttf’\n"}
-,{"stream_name":"stderr","time":5.21323752,"data":"\n"}
-,{"stream_name":"stderr","time":5.214242416,"data":"     0K .......... .......... .......... .......... ..        100% 36.3M=0.001s\n"}
-,{"stream_name":"stderr","time":5.21426663,"data":"\n"}
-,{"stream_name":"stderr","time":5.214383151,"data":"2025-01-03 22:36:13 (36.3 MB/s) - ‘fonts/KFOlCnqEu92Fr1MmWUlfBBc9.ttf’ saved [43480/43480]\n"}
-,{"stream_name":"stderr","time":5.214403148,"data":"\n"}
-,{"stream_name":"stderr","time":5.220607683,"data":"--2025-01-03 22:36:13--  https://fonts.gstatic.com/s/roboto/v32/KFOmCnqEu92Fr1Mu4mxP.ttf\n"}
-,{"stream_name":"stderr","time":5.227342767,"data":"Resolving fonts.gstatic.com (fonts.gstatic.com)... 74.125.135.94, 2607:f8b0:400e:c0c::5e\n"}
-,{"stream_name":"stderr","time":5.228766042,"data":"Connecting to fonts.gstatic.com (fonts.gstatic.com)|74.125.135.94|:443... connected.\n"}
-,{"stream_name":"stderr","time":5.243641414,"data":"HTTP request sent, awaiting response... 200 OK\n"}
-,{"stream_name":"stderr","time":5.243674466,"data":"Length: 43928 (43K) [font/ttf]\n"}
-,{"stream_name":"stderr","time":5.243725444,"data":"Saving to: ‘fonts/KFOmCnqEu92Fr1Mu4mxP.ttf’\n"}
-,{"stream_name":"stderr","time":5.243868404,"data":"\n"}
-,{"stream_name":"stderr","time":5.244820829,"data":"     0K .......... .......... .......... .......... ..        100% 38.6M=0.001s\n"}
-,{"stream_name":"stderr","time":5.244836253,"data":"\n"}
-,{"stream_name":"stderr","time":5.244929689,"data":"2025-01-03 22:36:13 (38.6 MB/s) - ‘fonts/KFOmCnqEu92Fr1Mu4mxP.ttf’ saved [43928/43928]\n"}
-,{"stream_name":"stderr","time":5.244937986,"data":"\n"}
-,{"stream_name":"stderr","time":5.251388985,"data":"--2025-01-03 22:36:13--  https://fonts.gstatic.com/s/roboto/v32/KFOlCnqEu92Fr1MmSU5fBBc9.ttf\n"}
-,{"stream_name":"stderr","time":5.257035885,"data":"Resolving fonts.gstatic.com (fonts.gstatic.com)... 74.125.135.94, 2607:f8b0:400e:c0c::5e\n"}
-,{"stream_name":"stderr","time":5.258574981,"data":"Connecting to fonts.gstatic.com (fonts.gstatic.com)|74.125.135.94|:443... connected.\n"}
-,{"stream_name":"stderr","time":5.271004088,"data":"HTTP request sent, awaiting response... 200 OK\n"}
-,{"stream_name":"stderr","time":5.271039459,"data":"Length: 43724 (43K) [font/ttf]\n"}
-,{"stream_name":"stderr","time":5.271099744,"data":"Saving to: ‘fonts/KFOlCnqEu92Fr1MmSU5fBBc9.ttf’\n"}
-,{"stream_name":"stderr","time":5.27134362,"data":"\n"}
-,{"stream_name":"stderr","time":5.272288877,"data":"     0K .......... .......... .......... .......... ..        100% 37.9M=0.001s\n"}
-,{"stream_name":"stderr","time":5.272299094,"data":"\n"}
-,{"stream_name":"stderr","time":5.272375494,"data":"2025-01-03 22:36:13 (37.9 MB/s) - ‘fonts/KFOlCnqEu92Fr1MmSU5fBBc9.ttf’ saved [43724/43724]\n"}
-,{"stream_name":"stderr","time":5.272388179,"data":"\n"}
-,{"stream_name":"stderr","time":5.2785123,"data":"--2025-01-03 22:36:13--  https://fonts.gstatic.com/s/roboto/v32/KFOlCnqEu92Fr1MmEU9fBBc9.ttf\n"}
-,{"stream_name":"stderr","time":5.285444265,"data":"Resolving fonts.gstatic.com (fonts.gstatic.com)... 74.125.135.94, 2607:f8b0:400e:c0c::5e\n"}
-,{"stream_name":"stderr","time":5.286916334,"data":"Connecting to fonts.gstatic.com (fonts.gstatic.com)|74.125.135.94|:443... connected.\n"}
-,{"stream_name":"stderr","time":5.300313917,"data":"HTTP request sent, awaiting response... 200 OK\n"}
-,{"stream_name":"stderr","time":5.300365924,"data":"Length: 43780 (43K) [font/ttf]\n"}
-,{"stream_name":"stderr","time":5.300430231,"data":"Saving to: ‘fonts/KFOlCnqEu92Fr1MmEU9fBBc9.ttf’\n"}
-,{"stream_name":"stderr","time":5.300583087,"data":"\n"}
-,{"stream_name":"stderr","time":5.301521985,"data":"     0K .......... .......... .......... .......... ..        100% 36.9M=0.001s\n"}
-,{"stream_name":"stderr","time":5.301543512,"data":"\n"}
-,{"stream_name":"stderr","time":5.301602634,"data":"2025-01-03 22:36:13 (36.9 MB/s) - ‘fonts/KFOlCnqEu92Fr1MmEU9fBBc9.ttf’ saved [43780/43780]\n"}
-,{"stream_name":"stderr","time":5.301609658,"data":"\n"}
-,{"stream_name":"stderr","time":5.308827681,"data":"--2025-01-03 22:36:13--  https://fonts.gstatic.com/s/roboto/v32/KFOkCnqEu92Fr1MmgVxIIzc.ttf\n"}
-,{"stream_name":"stderr","time":5.333055601,"data":"Resolving fonts.gstatic.com (fonts.gstatic.com)... 74.125.135.94, 2607:f8b0:400e:c0c::5e\n"}
-,{"stream_name":"stderr","time":5.33437292,"data":"Connecting to fonts.gstatic.com (fonts.gstatic.com)|74.125.135.94|:443... connected.\n"}
-,{"stream_name":"stderr","time":5.349883614,"data":"HTTP request sent, awaiting response... 200 OK\n"}
-,{"stream_name":"stderr","time":5.34991805,"data":"Length: 44396 (43K) [font/ttf]\n"}
-,{"stream_name":"stderr","time":5.349934517,"data":"Saving to: ‘fonts/KFOkCnqEu92Fr1MmgVxIIzc.ttf’\n"}
-,{"stream_name":"stderr","time":5.350173922,"data":"\n"}
-,{"stream_name":"stderr","time":5.351073552,"data":"     0K .......... .......... .......... .......... ...       100% 37.1M=0.001s\n"}
-,{"stream_name":"stderr","time":5.351088231,"data":"\n"}
-,{"stream_name":"stderr","time":5.351188663,"data":"2025-01-03 22:36:13 (37.1 MB/s) - ‘fonts/KFOkCnqEu92Fr1MmgVxIIzc.ttf’ saved [44396/44396]\n"}
-,{"stream_name":"stderr","time":5.351195877,"data":"\n"}
-,{"stream_name":"stdout","time":5.374504786,"data":".:\r\n"}
-,{"stream_name":"stdout","time":5.374547306,"data":"fonts  fonts.css  __notebook__.ipynb\r\n"}
-,{"stream_name":"stdout","time":5.374552738,"data":"\r\n"}
-,{"stream_name":"stdout","time":5.374557383,"data":"./fonts:\r\n"}
-,{"stream_name":"stdout","time":5.374562152,"data":"KFOkCnqEu92Fr1MmgVxIIzc.ttf   KFOlCnqEu92Fr1MmWUlfBBc9.ttf\r\n"}
-,{"stream_name":"stdout","time":5.374566967,"data":"KFOlCnqEu92Fr1MmEU9fBBc9.ttf  KFOmCnqEu92Fr1Mu4mxP.ttf\r\n"}
-,{"stream_name":"stdout","time":5.3745716980000005,"data":"KFOlCnqEu92Fr1MmSU5fBBc9.ttf\r\n"}
-,{"stream_name":"stderr","time":7.967721805,"data":"/usr/local/lib/python3.10/dist-packages/traitlets/traitlets.py:2915: FutureWarning: --Exporter.preprocessors=[\"remove_papermill_header.RemovePapermillHeader\"] for containers is deprecated in traitlets 5.0. You can pass `--Exporter.preprocessors item` ... multiple times to add items to a list.\n"}
-,{"stream_name":"stderr","time":7.967864882,"data":"  warn(\n"}
-,{"stream_name":"stderr","time":8.00100871,"data":"[NbConvertApp] Converting notebook __notebook__.ipynb to notebook\n"}
-,{"stream_name":"stderr","time":8.427463819,"data":"[NbConvertApp] Writing 3482 bytes to __notebook__.ipynb\n"}
-,{"stream_name":"stderr","time":9.939715154,"data":"/usr/local/lib/python3.10/dist-packages/traitlets/traitlets.py:2915: FutureWarning: --Exporter.preprocessors=[\"nbconvert.preprocessors.ExtractOutputPreprocessor\"] for containers is deprecated in traitlets 5.0. You can pass `--Exporter.preprocessors item` ... multiple times to add items to a list.\n"}
-,{"stream_name":"stderr","time":9.939780826,"data":"  warn(\n"}
-,{"stream_name":"stderr","time":9.997725884,"data":"[NbConvertApp] Converting notebook __notebook__.ipynb to html\n"}
-,{"stream_name":"stderr","time":10.962079868,"data":"[NbConvertApp] Writing 279781 bytes to __results__.html\n"}
+[{"stream_name":"stderr","time":8.379761375,"data":"--2025-03-21 18:53:23--  https://fonts.gstatic.com/s/roboto/v47/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuaabVmUiA8.ttf\n"}
+,{"stream_name":"stderr","time":8.387529643,"data":"Resolving fonts.gstatic.com (fonts.gstatic.com)... 108.177.98.94, 2607:f8b0:400e:c1b::5e\n"}
+,{"stream_name":"stderr","time":8.388648561,"data":"Connecting to fonts.gstatic.com (fonts.gstatic.com)|108.177.98.94|:443... connected.\n"}
+,{"stream_name":"stderr","time":8.407322117,"data":"HTTP request sent, awaiting response... 200 OK\n"}
+,{"stream_name":"stderr","time":8.407402022,"data":"Length: 42256 (41K) [font/ttf]\n"}
+,{"stream_name":"stderr","time":8.407461995,"data":"Saving to: ‘fonts/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuaabVmUiA8.ttf’\n"}
+,{"stream_name":"stderr","time":8.407471831,"data":"\n"}
+,{"stream_name":"stderr","time":8.408407727,"data":"     0K .......... .......... .......... .......... .         100% 33.3M=0.001s\n"}
+,{"stream_name":"stderr","time":8.40843905,"data":"\n"}
+,{"stream_name":"stderr","time":8.408599138,"data":"2025-03-21 18:53:23 (33.3 MB/s) - ‘fonts/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuaabVmUiA8.ttf’ saved [42256/42256]\n"}
+,{"stream_name":"stderr","time":8.408631855,"data":"\n"}
+,{"stream_name":"stderr","time":8.416344887,"data":"--2025-03-21 18:53:23--  https://fonts.gstatic.com/s/roboto/v47/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVmUiA8.ttf\n"}
+,{"stream_name":"stderr","time":8.424306604,"data":"Resolving fonts.gstatic.com (fonts.gstatic.com)... 108.177.98.94, 2607:f8b0:400e:c08::5e\n"}
+,{"stream_name":"stderr","time":8.426395212,"data":"Connecting to fonts.gstatic.com (fonts.gstatic.com)|108.177.98.94|:443... connected.\n"}
+,{"stream_name":"stderr","time":8.440264669,"data":"HTTP request sent, awaiting response... 200 OK\n"}
+,{"stream_name":"stderr","time":8.440302915,"data":"Length: 42220 (41K) [font/ttf]\n"}
+,{"stream_name":"stderr","time":8.440309763,"data":"Saving to: ‘fonts/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVmUiA8.ttf’\n"}
+,{"stream_name":"stderr","time":8.440439897,"data":"\n"}
+,{"stream_name":"stderr","time":8.441422699,"data":"     0K .......... .......... .......... .......... .         100% 35.4M=0.001s\n"}
+,{"stream_name":"stderr","time":8.441444712,"data":"\n"}
+,{"stream_name":"stderr","time":8.441607589,"data":"2025-03-21 18:53:23 (35.4 MB/s) - ‘fonts/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVmUiA8.ttf’ saved [42220/42220]\n"}
+,{"stream_name":"stderr","time":8.441621508,"data":"\n"}
+,{"stream_name":"stderr","time":8.449271507,"data":"--2025-03-21 18:53:23--  https://fonts.gstatic.com/s/roboto/v47/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbFmUiA8.ttf\n"}
+,{"stream_name":"stderr","time":8.454910938,"data":"Resolving fonts.gstatic.com (fonts.gstatic.com)... 142.250.107.94, 2607:f8b0:400e:c1b::5e\n"}
+,{"stream_name":"stderr","time":8.456741271,"data":"Connecting to fonts.gstatic.com (fonts.gstatic.com)|142.250.107.94|:443... connected.\n"}
+,{"stream_name":"stderr","time":8.471701762,"data":"HTTP request sent, awaiting response... 200 OK\n"}
+,{"stream_name":"stderr","time":8.471738095,"data":"Length: 42216 (41K) [font/ttf]\n"}
+,{"stream_name":"stderr","time":8.471745036,"data":"Saving to: ‘fonts/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbFmUiA8.ttf’\n"}
+,{"stream_name":"stderr","time":8.471751744,"data":"\n"}
+,{"stream_name":"stderr","time":8.473650296,"data":"     0K .......... .......... .......... .......... .         100% 19.0M=0.002s\n"}
+,{"stream_name":"stderr","time":8.473673273,"data":"\n"}
+,{"stream_name":"stderr","time":8.473784542,"data":"2025-03-21 18:53:23 (19.0 MB/s) - ‘fonts/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbFmUiA8.ttf’ saved [42216/42216]\n"}
+,{"stream_name":"stderr","time":8.473850959,"data":"\n"}
+,{"stream_name":"stderr","time":8.480905632,"data":"--2025-03-21 18:53:23--  https://fonts.gstatic.com/s/roboto/v47/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWub2bVmUiA8.ttf\n"}
+,{"stream_name":"stderr","time":8.486427802,"data":"Resolving fonts.gstatic.com (fonts.gstatic.com)... 108.177.98.94, 2607:f8b0:400e:c1b::5e\n"}
+,{"stream_name":"stderr","time":8.487539811,"data":"Connecting to fonts.gstatic.com (fonts.gstatic.com)|108.177.98.94|:443... connected.\n"}
+,{"stream_name":"stderr","time":8.500507135,"data":"HTTP request sent, awaiting response... 200 OK\n"}
+,{"stream_name":"stderr","time":8.500557169,"data":"Length: 42272 (41K) [font/ttf]\n"}
+,{"stream_name":"stderr","time":8.500564757,"data":"Saving to: ‘fonts/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWub2bVmUiA8.ttf’\n"}
+,{"stream_name":"stderr","time":8.500697783,"data":"\n"}
+,{"stream_name":"stderr","time":8.501595008,"data":"     0K .......... .......... .......... .......... .         100% 38.0M=0.001s\n"}
+,{"stream_name":"stderr","time":8.501636846,"data":"\n"}
+,{"stream_name":"stderr","time":8.501722361,"data":"2025-03-21 18:53:23 (38.0 MB/s) - ‘fonts/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWub2bVmUiA8.ttf’ saved [42272/42272]\n"}
+,{"stream_name":"stderr","time":8.50173976,"data":"\n"}
+,{"stream_name":"stderr","time":8.508950512,"data":"--2025-03-21 18:53:23--  https://fonts.gstatic.com/s/roboto/v47/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYjalmUiA8.ttf\n"}
+,{"stream_name":"stderr","time":8.514934631,"data":"Resolving fonts.gstatic.com (fonts.gstatic.com)... 108.177.98.94, 2607:f8b0:400e:c1b::5e\n"}
+,{"stream_name":"stderr","time":8.516066481,"data":"Connecting to fonts.gstatic.com (fonts.gstatic.com)|108.177.98.94|:443... connected.\n"}
+,{"stream_name":"stderr","time":8.529174024,"data":"HTTP request sent, awaiting response... 200 OK\n"}
+,{"stream_name":"stderr","time":8.529229729,"data":"Length: 42348 (41K) [font/ttf]\n"}
+,{"stream_name":"stderr","time":8.529238602,"data":"Saving to: ‘fonts/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYjalmUiA8.ttf’\n"}
+,{"stream_name":"stderr","time":8.529359867,"data":"\n"}
+,{"stream_name":"stderr","time":8.530341758,"data":"     0K .......... .......... .......... .......... .         100% 34.0M=0.001s\n"}
+,{"stream_name":"stderr","time":8.530394673,"data":"\n"}
+,{"stream_name":"stderr","time":8.530539972,"data":"2025-03-21 18:53:23 (34.0 MB/s) - ‘fonts/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYjalmUiA8.ttf’ saved [42348/42348]\n"}
+,{"stream_name":"stderr","time":8.53057701,"data":"\n"}
+,{"stream_name":"stdout","time":8.553973933,"data":".:\r\n"}
+,{"stream_name":"stdout","time":8.554039838,"data":"fonts  fonts.css  __notebook__.ipynb\r\n"}
+,{"stream_name":"stdout","time":8.554045062,"data":"\r\n"}
+,{"stream_name":"stdout","time":8.55404853,"data":"./fonts:\r\n"}
+,{"stream_name":"stdout","time":8.554051588,"data":"KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuaabVmUiA8.ttf\r\n"}
+,{"stream_name":"stdout","time":8.554054864,"data":"KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWub2bVmUiA8.ttf\r\n"}
+,{"stream_name":"stdout","time":8.554057961,"data":"KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbFmUiA8.ttf\r\n"}
+,{"stream_name":"stdout","time":8.554061324,"data":"KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVmUiA8.ttf\r\n"}
+,{"stream_name":"stdout","time":8.554064321,"data":"KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYjalmUiA8.ttf\r\n"}
+,{"stream_name":"stderr","time":11.17462905,"data":"/usr/local/lib/python3.10/dist-packages/traitlets/traitlets.py:2915: FutureWarning: --Exporter.preprocessors=[\"remove_papermill_header.RemovePapermillHeader\"] for containers is deprecated in traitlets 5.0. You can pass `--Exporter.preprocessors item` ... multiple times to add items to a list.\n"}
+,{"stream_name":"stderr","time":11.174699131,"data":"  warn(\n"}
+,{"stream_name":"stderr","time":11.210684336,"data":"[NbConvertApp] Converting notebook __notebook__.ipynb to notebook\n"}
+,{"stream_name":"stderr","time":11.600069105,"data":"[NbConvertApp] Writing 3674 bytes to __notebook__.ipynb\n"}
+,{"stream_name":"stderr","time":13.00365094,"data":"/usr/local/lib/python3.10/dist-packages/traitlets/traitlets.py:2915: FutureWarning: --Exporter.preprocessors=[\"nbconvert.preprocessors.ExtractOutputPreprocessor\"] for containers is deprecated in traitlets 5.0. You can pass `--Exporter.preprocessors item` ... multiple times to add items to a list.\n"}
+,{"stream_name":"stderr","time":13.003721734,"data":"  warn(\n"}
+,{"stream_name":"stderr","time":13.0564026,"data":"[NbConvertApp] Converting notebook __notebook__.ipynb to html\n"}
+,{"stream_name":"stderr","time":13.85426627,"data":"[NbConvertApp] Writing 279950 bytes to __results__.html\n"}
 ]
