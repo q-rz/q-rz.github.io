@@ -3,10 +3,10 @@
 <head>
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>SAFFRON-1: Towards an Inference Scaling Paradigm for LLM Safety Assurance | Ruizhong Qiu</title>
+<title>SAFFRON-1: Inference Scaling for LLM Safety Assurance | Ruizhong Qiu</title>
 <link href="../../assets/bootstrap.min.css?v=5.3.0-alpha1" rel="stylesheet" type="text/css" />
-<link href="../../assets/style.css?t=1749526308" rel="stylesheet" type="text/css" />
-<link href="../../assets/fonts.css?t=1749526308" rel="stylesheet" type="text/css" />
+<link href="../../assets/style.css?t=1749627836" rel="stylesheet" type="text/css" />
+<link href="../../assets/fonts.css?t=1749627836" rel="stylesheet" type="text/css" />
 <script>
 function removeHashtagFromUrl() { window.history.replaceState('', '', window.location.pathname + window.location.search); }
 window.addEventListener('load', removeHashtagFromUrl);
@@ -20,7 +20,7 @@ window.addEventListener('hashchange', removeHashtagFromUrl);
             <div class="col-3 col-lg-2"><a class="navbar-brand" href="#">Ruizhong Qiu</a></div>
             <div class="col-9 col-md-8 col-lg-7 col-xl-5">
                 <ul class="navbar-nav justify-content-end">
-                    <li class="nav-item"><a class="nav-link" href="#saffron-1-towards-an-inference-scaling-paradigm-for-llm-safety-assurance">SAFFRON-1: Towards an Inference Scaling Paradigm for LLM Safety Assurance</a></li>
+                    <li class="nav-item"><a class="nav-link" href="#saffron-1-inference-scaling-for-llm-safety-assurance">SAFFRON-1: Inference Scaling for LLM Safety Assurance</a></li>
                 </ul>
             </div>
         </div>
@@ -28,7 +28,7 @@ window.addEventListener('hashchange', removeHashtagFromUrl);
 </header>
 <div class="container">
     <div class="row justify-content-center">
-        <div class="col-12 col-md-11 col-lg-9 col-xl-7"><h1 id="saffron-1-towards-an-inference-scaling-paradigm-for-llm-safety-assurance">SAFFRON-1: Towards an Inference Scaling Paradigm for LLM Safety Assurance</h1>
+        <div class="col-12 col-md-11 col-lg-9 col-xl-7"><h1 id="saffron-1-inference-scaling-for-llm-safety-assurance">SAFFRON-1: Inference Scaling for LLM Safety Assurance</h1>
 <p><strong>Authors</strong>: Ruizhong Qiu*, Gaotang Li*, Tianxin Wei, Jingrui He, Hanghang Tong<br />
 <em>University of Illinois Urbana-Champaign</em>  </p>
 <p><a href="https://arxiv.org/abs/2506.06444">Paper</a> | <a href="https://github.com/q-rz/saffron">GitHub</a></p>
@@ -38,9 +38,11 @@ window.addEventListener('hashchange', removeHashtagFromUrl);
 <p>SAFFRON-1 introduces the first <strong>inference scaling paradigm tailored for LLM safety assurance</strong>, addressing the shortcomings of existing methods like Best-of-N, Beam Search, and MCTS under adversarial settings. Our method replaces expensive <strong>process reward models (PRMs)</strong> with a novel <strong>multifurcation reward model (MRM)</strong> that reduces reward evaluations while improving robustness and efficiency.</p>
 <hr />
 <h2 id="motivation">Motivation</h2>
-<p>While inference-time scaling has greatly advanced reasoning tasks, it <strong>fails to scale efficiently in safety settings</strong>. Existing techniques suffer from what we identify as the <strong>exploration-efficiency dilemma</strong>: better exploration incurs high computational cost due to frequent PRM calls, limiting their practicality for safety-critical deployment.</p>
-<!-- [figure 1] -->
-<p><em>Comparison between PRM-based and MRM-based tree search approaches.</em></p>
+<p>While inference-time scaling has greatly advanced reasoning tasks, it <strong>fails to scale efficiently in safety settings</strong>. Existing techniques suffer from what we identify as the <strong>exploration-efficiency dilemma</strong>: more exploration incurs high computational cost due to frequent PRM calls, limiting their scaling efficiency.</p>
+<p><img alt="" src="saffron-fig1.jpg" /></p>
+<p>Figure 1: <em>Comparison between PRM-based and MRM-based tree search procedures.</em></p>
+<p><img alt="" src="saffron-fig2.jpg" /></p>
+<p>Figure 2: <em>Comparison with existing inference scaling methods.</em></p>
 <hr />
 <h2 id="saffron-paradigm">SAFFRON Paradigm</h2>
 <p>We propose <strong>Safe Multifurcation (SAFFRON)</strong>, an inference scaling paradigm with the following key innovations:</p>
@@ -48,26 +50,23 @@ window.addEventListener('hashchange', removeHashtagFromUrl);
 <li><strong>Multifurcation Reward Model (MRM)</strong>: A vector-valued model that approximates all next-token rewards in one call.</li>
 <li><strong>Partial Supervision Training</strong>: Efficient learning from token-level reward annotations.</li>
 <li><strong>Conservative Exploration</strong>: Avoids unsafe out-of-distribution tokens by masking unseen outputs.</li>
-<li><strong>Trie-based Key-Value Caching</strong>: Efficient reuse of attention caches during tree search.</li>
+<li><strong>Trie-based Key-Value (KV) Caching</strong>: Efficient reuse of KV caches across searched sequences.</li>
 </ul>
-<!-- [figure 3] -->
-<p><em>Trie-based cache sharing across sequences with common prefixes.</em></p>
-<hr />
-<h2 id="saffron-1-method">SAFFRON-1 Method</h2>
-<p>We instantiate SAFFRON through <strong>SAFFRON-1</strong>, a variant of beam search that integrates our MRM with conservative constraints:</p>
-<ol>
-<li>Use top-p sampling to limit candidate tokens.</li>
-<li>Replace multiple PRM evaluations with a single MRM call per beam.</li>
-<li>Postprocess rewards to ignore unseen tokens.</li>
-<li>Share key-value caches across beams</li>
-</ol></div>
+<p><img alt="" src="saffron-fig3.jpg" /></p>
+<p>Figure 3: <em>Trie-based cache sharing across sequences with common prefixes.</em></p>
+<h2 id="resources">Resources</h2>
+<p>To facilitate future research on LLM safety, we release our trained MRM SAFFRON-1 and the training dataset Safety4M:</p>
+<ul>
+<li>Trained MRM SAFFRON-1: <a href="https://github.com/q-rz/saffron/tree/main/models/Saffron-1-1B">https://github.com/q-rz/saffron/tree/main/models/Saffron-1-1B</a></li>
+<li>Training dataset Safety4M: Coming soon...</li>
+</ul></div>
     </div>
 </div>
 <footer class="mt-5 py-2 bg-light border-top">
     <div class="container">
         <div class="row align-items-center justify-content-center">
             <small class="col-6 col-md-5 col-lg-4 col-xl-3 text-start">&copy; 2023–2025 Ruizhong Qiu</small>
-            <small class="col-6 col-md-6 col-lg-5 col-xl-4 text-end">Built by <a href="https://www.mkdocs.org/" target="_blank">MkDocs</a> on June 10, 2025</small>
+            <small class="col-6 col-md-6 col-lg-5 col-xl-4 text-end">Built by <a href="https://www.mkdocs.org/" target="_blank">MkDocs</a> on June 11, 2025</small>
         </div>
     </div>
 </footer>
