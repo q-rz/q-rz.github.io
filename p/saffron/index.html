@@ -5,8 +5,8 @@
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>SAFFRON-1: Inference Scaling for LLM Safety Assurance | Ruizhong Qiu</title>
 <link href="../../assets/bootstrap.min.css?v=5.3.0-alpha1" rel="stylesheet" type="text/css" />
-<link href="../../assets/style.css?t=1749627836" rel="stylesheet" type="text/css" />
-<link href="../../assets/fonts.css?t=1749627836" rel="stylesheet" type="text/css" />
+<link href="../../assets/style.css?t=1749628773" rel="stylesheet" type="text/css" />
+<link href="../../assets/fonts.css?t=1749628773" rel="stylesheet" type="text/css" />
 <script>
 function removeHashtagFromUrl() { window.history.replaceState('', '', window.location.pathname + window.location.search); }
 window.addEventListener('load', removeHashtagFromUrl);
@@ -39,10 +39,10 @@ window.addEventListener('hashchange', removeHashtagFromUrl);
 <hr />
 <h2 id="motivation">Motivation</h2>
 <p>While inference-time scaling has greatly advanced reasoning tasks, it <strong>fails to scale efficiently in safety settings</strong>. Existing techniques suffer from what we identify as the <strong>exploration-efficiency dilemma</strong>: more exploration incurs high computational cost due to frequent PRM calls, limiting their scaling efficiency.</p>
-<p><img alt="" src="saffron-fig1.jpg" /></p>
-<p>Figure 1: <em>Comparison between PRM-based and MRM-based tree search procedures.</em></p>
-<p><img alt="" src="saffron-fig2.jpg" /></p>
-<p>Figure 2: <em>Comparison with existing inference scaling methods.</em></p>
+<p><img src="saffron-fig1.jpg" style="max-width:100%;" /></p>
+<p><em>Figure 1: Comparison between PRM-based and MRM-based tree search procedures.</em></p>
+<p><img src="saffron-fig2.jpg" style="max-width:100%;" /></p>
+<p><em>Figure 2: Comparison with existing inference scaling methods.</em></p>
 <hr />
 <h2 id="saffron-paradigm">SAFFRON Paradigm</h2>
 <p>We propose <strong>Safe Multifurcation (SAFFRON)</strong>, an inference scaling paradigm with the following key innovations:</p>
@@ -52,8 +52,8 @@ window.addEventListener('hashchange', removeHashtagFromUrl);
 <li><strong>Conservative Exploration</strong>: Avoids unsafe out-of-distribution tokens by masking unseen outputs.</li>
 <li><strong>Trie-based Key-Value (KV) Caching</strong>: Efficient reuse of KV caches across searched sequences.</li>
 </ul>
-<p><img alt="" src="saffron-fig3.jpg" /></p>
-<p>Figure 3: <em>Trie-based cache sharing across sequences with common prefixes.</em></p>
+<p><img src="saffron-fig3.jpg" style="max-width:40%;" /></p>
+<p><em>Figure 3: Trie-based cache sharing across sequences with common prefixes.</em></p>
 <h2 id="resources">Resources</h2>
 <p>To facilitate future research on LLM safety, we release our trained MRM SAFFRON-1 and the training dataset Safety4M:</p>
 <ul>
