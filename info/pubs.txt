@@ -35,6 +35,7 @@
 \Pubs{
 \setcounter{enumi}{26}
 \Pub{Beyond log likelihood: Probability-based objectives for supervised fine-tuning across the model capability continuum}{Gaotang Li*, \BF{Ruizhong Qiu}*, Xiusi Chen*, Heng Ji, Hanghang Tong}{}{2025}
+\Pub{Latent collaboration in multi-agent systems}{Jiaru Zou*, Xiyuan Yang*, \BF{Ruizhong Qiu}*, Gaotang Li*, Katherine Tieu*, Pan Lu*, Ke Shen, Hanghang Tong, Yejin Choi, Jingrui He, James Zou, Mengdi Wang, Ling Yang}{}{2025}
 \Pub{WAPITI: A watermark for finetuned open-source LLMs}{Lingjie Chen*, \BF{Ruizhong Qiu}*, Siyu Yuan, Zhining Liu, Tianxin Wei, Hyunsik Yoo, Zhichen Zeng, Deqing Yang}{}{2024}
 \Pub{Harnessing consistency for robust test-time LLM ensemble}{Zhichen Zeng, Qi Yu, XiaoLin, \BF{Ruizhong Qiu}, Xuying Ning, Tianxin Wei, Yuchen Yan, Jingrui He, Hanghang Tong}{}{2025}
 \Pub{Hierarchical LoRA MoE for efficient CTR model scaling}{Zhichen Zeng, Mengyue Hang, Xiaolong Liu, Xiaoyi Liu, Xiao Lin, \BF{Ruizhong Qiu}, Tianxin Wei, Zhining Liu, Siyang Yuan, Chaofei Yang, Yiqun Liu, Hang Yin, Jiyan Yang, Hanghang Tong}{}{2025}
