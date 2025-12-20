@@ -24,7 +24,7 @@ Conference Papers:
 
 
 Workshop Papers:
-1. "Efficient inference scaling for safety assurance", NeurIPS 2025 Workshop on Vision--Language Model Real-World Deployment, 2025, Ruizhong Qiu*, Gaotang Li*, Tianxin Wei, Jingrui He, Hanghang Tong
+1. "Efficient inference scaling for safety assurance", NeurIPS 2025 Workshop on Vision--Language Model Real-World Deployment, 2025, Ruizhong Qiu*, Gaotang Li*, Ting-Wei Li*, Tianxin Wei, Jingrui He, Hanghang Tong
 2. "FineAMP: Optimization-based automatic mixed precision quantization for efficient diffusion model inference", 17th International OPT Workshop on Optimization for Machine Learning, 2025, Burak Bartan, Ruizhong Qiu, Rafael Esteves, Yuwei Ren, Weiliang Will Zeng, An Chen
 3. "FineAMP: Optimization-based automatic mixed precision quantization for efficient diffusion model inference", NeurIPS 2025 Workshop on Constrained Optimization for Machine Learning, 2025, Burak Bartan, Ruizhong Qiu, Rafael Esteves, Yuwei Ren, Weiliang Will Zeng, An Chen
 4. "Haystack engineering: Context engineering meets the long-context challenge in large language models", NeurIPS 2025 Workshop on Evaluating the Evolving LLM Lifecycle: Benchmarks, Emergent Abilities, and Scaling, 2025, Mufei Li, Dongqi Fu, Limei Wang, Si Zhang, Hanqing Zeng, Kaan Sancak, Ruizhong Qiu, Haoyu Peter Wang, Xiaoxin He, Xavier Bresson, Yinglong Xia, Chonglin Sun, Pan Li
