@@ -1,0 +1,7 @@
+\Exp{Meta AI}{Part-Time Student Researcher}{Remote}{Aug -- Dec 2025}{Reinforcement routing for mixtures of LoRAs}{Mentors: Hanqing Zeng, Yinglong Xia}
+
+\Exp{Meta AI}{Research Scientist Intern}{Menlo Park, CA}{May -- Aug 2025}{Soft graph clustering for generative recommendation}{Mentors: Yinglong Xia, Hanqing Zeng}
+
+\Exp{Qualcomm AI Research}{Research Engineering Intern}{San Diego, CA}{Jun -- Aug 2024}{Automatic mixed-precision quantization}{Mentors: Burak Bartan, Weiliang Will Zeng}
+
+\Exp{Qualcomm AI Research}{Research Engineering Intern}{San Diego, CA}{May -- Aug 2023}{Code generation with large language models}{Mentor: Weiliang Will Zeng}
