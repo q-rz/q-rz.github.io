@@ -13,6 +13,7 @@
 \Pub{Class-imbalanced graph learning without class rebalancing}{Zhining Liu, \BF{Ruizhong Qiu}, Zhichen Zeng, Hyunsik Yoo, David Zhou, Zhe Xu, Yada Zhu, Kommy Weldemariam, Jingrui He, Hanghang Tong}{ICML}{2024}
 \Pub{TUCKET: A tensor time series data structure for efficient and accurate factor analysis over time ranges}{\BF{Ruizhong Qiu}*, Jun-Gi Jang*, Xiao Lin, Lihui Liu, Hanghang Tong}{VLDB}{2025}
 \Pub{Latte: Collaborative test-time adaptation of vision-language models in federated learning}{Wenxuan Bao, Ruxi Deng, \BF{Ruizhong Qiu}, Tianxin Wei, Hanghang Tong, Jingrui He}{ICCV}{2025}
+\Pub{Harnessing consistency for robust test-time LLM ensemble}{Zhichen Zeng, Qi Yu, Xiao Lin, \BF{Ruizhong Qiu}, Xuying Ning, Tianxin Wei, Yuchen Yan, Jingrui He, Hanghang Tong}{EACL}{2026}
 \Pub{PowerGrow: Feasible co-growth of structures and dynamics for power grid synthesis}{Xinyu He, Chenhan Xiao, Haoran Li, \BF{Ruizhong Qiu}, Zhe Xu, Yang Weng, Jingrui He, Hanghang Tong}{KDD}{2026}
 \Pub{Generalizable recommender system during temporal popularity distribution shifts}{Hyunsik Yoo, \BF{Ruizhong Qiu}, Charlie Xu, Fei Wang, Hanghang Tong}{KDD}{2025}
 \Pub{AIM: Attributing, interpreting, mitigating data-encoded unfairness}{Zhining Liu, \BF{Ruizhong Qiu}, Zhichen Zeng, Yada Zhu, Hendrik Hamann, Hanghang Tong}{KDD}{2024}
@@ -25,7 +26,7 @@
 }
 \BF{Workshop Papers:}
 \Pubs{
-\setcounter{enumi}{22}
+\setcounter{enumi}{23}
 \Pub{Efficient inference scaling for safety assurance}{\BF{Ruizhong Qiu}*, Gaotang Li*, Ting-Wei Li*, Tianxin Wei, Jingrui He, Hanghang Tong}{VLMRWD@NeurIPS}{2025}
 \Pub{FineAMP: Optimization-based automatic mixed precision quantization for efficient diffusion model inference}{Burak Bartan, \BF{Ruizhong Qiu}, Rafael Esteves, Yuwei Ren, Weiliang Will Zeng, An Chen}{OPT@NeurIPS}{2025}
 \Pub{FineAMP: Optimization-based automatic mixed precision quantization for efficient diffusion model inference}{Burak Bartan, \BF{Ruizhong Qiu}, Rafael Esteves, Yuwei Ren, Weiliang Will Zeng, An Chen}{COML@NeurIPS}{2025}
@@ -33,11 +34,10 @@
 }
 \BF{Preprints:}
 \Pubs{
-\setcounter{enumi}{26}
+\setcounter{enumi}{27}
 \Pub{Beyond log likelihood: Probability-based objectives for supervised fine-tuning across the model capability continuum}{Gaotang Li*, \BF{Ruizhong Qiu}*, Xiusi Chen*, Heng Ji, Hanghang Tong}{}{2025}
 \Pub{Latent collaboration in multi-agent systems}{Jiaru Zou*, Xiyuan Yang*, \BF{Ruizhong Qiu}*, Gaotang Li*, Katherine Tieu*, Pan Lu*, Ke Shen, Hanghang Tong, Yejin Choi, Jingrui He, James Zou, Mengdi Wang, Ling Yang}{}{2025}
 \Pub{WAPITI: A watermark for finetuned open-source LLMs}{Lingjie Chen*, \BF{Ruizhong Qiu}*, Siyu Yuan, Zhining Liu, Tianxin Wei, Hyunsik Yoo, Zhichen Zeng, Deqing Yang}{}{2024}
-\Pub{Harnessing consistency for robust test-time LLM ensemble}{Zhichen Zeng, Qi Yu, XiaoLin, \BF{Ruizhong Qiu}, Xuying Ning, Tianxin Wei, Yuchen Yan, Jingrui He, Hanghang Tong}{}{2025}
 \Pub{Hierarchical LoRA MoE for efficient CTR model scaling}{Zhichen Zeng, Mengyue Hang, Xiaolong Liu, Xiaoyi Liu, Xiao Lin, \BF{Ruizhong Qiu}, Tianxin Wei, Zhining Liu, Siyang Yuan, Chaofei Yang, Yiqun Liu, Hang Yin, Jiyan Yang, Hanghang Tong}{}{2025}
 \Pub{Graph homophily booster: Rethinking the role of discrete features on heterophilic graphs}{\BF{Ruizhong Qiu}*, Ting-Wei Li*, Gaotang Li, Hanghang Tong}{}{2025}
 \Pub{Pave your own path: Graph gradual domain adaptation on fused Gromov–Wasserstein geodesics}{Zhichen Zeng, \BF{Ruizhong Qiu}, Wenxuan Bao, Tianxin Wei, Xiao Lin, Yuchen Yan, Tarek F. Abdelzaher, Jiawei Han, Hanghang Tong}{}{2025}
