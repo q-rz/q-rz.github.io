@@ -19,9 +19,11 @@ Conference Papers:
 18. "Reconstructing graph diffusion history from a single snapshot", 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining, 2023, Ruizhong Qiu, Dingsu Wang, Lei Ying, H. Vincent Poor, Yifang Zhang, Hanghang Tong
 19. "Networked time series imputation via position-aware graph enhanced variational autoencoders", 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining, 2023, Dingsu Wang, Yuchen Yan, Ruizhong Qiu, Yada Zhu, Kaiyu Guan, Andrew J. Margenot, Hanghang Tong
 20. "Embracing plasticity: Balancing stability and plasticity in continual recommender systems", 48th International ACM SIGIR Conference on Research and Development in Information Retrieval, 2025, Hyunsik Yoo, SeongKu Kang, Ruizhong Qiu, Charlie Xu, Fei Wang, Hanghang Tong
-21. "Ensuring user-side fairness in dynamic recommender systems", ACM Web Conference, 2024, Hyunsik Yoo, Zhichen Zeng, Jian Kang, Ruizhong Qiu, David Zhou, Zhining Liu, Fei Wang, Charlie Xu, Eunice Chan, Hanghang Tong
-22. "On the sensitivity of individual fairness: Measures and robust algorithms", 33rd ACM International Conference on Information and Knowledge Management, 2024, Xinyu He, Jian Kang, Ruizhong Qiu, Fei Wang, Jose Sepulveda, Hanghang Tong
-23. "Group fairness via group consensus", 2024 ACM Conference on Fairness, Accountability, and Transparency, 2024, Eunice Chan*, Zhining Liu*, Ruizhong Qiu, Yuheng Zhang, Ross Maciejewski, Hanghang Tong
+21. "Guiding generative recommender systems with structured human priors via multi-head decoding", ACM Web Conference, 2026, Yunkai Zhang, Qiang Zhang, Diji Yang, Ryan Lin, Ruizhong Qiu, Benyu Zhang, Hanchao Yu, Jason Liu, Yinglong Xia, Zhuokai Zhao, Lizhu Zhang, Xiangjun Fan, Zhuoran Yu, Abhishek Kumar, Zeyu Zheng
+22. "Mixture of sequence: Theme-aware mixture-of-experts for long-sequence recommendation", ACM Web Conference, 2026, Xiao Lin, Zhicheng Tang, Weilin Cong, Mengyue Hang, Kai Wang, Yajuan Wang, Zhichen Zeng, Ting-Wei Li, Hyunsik Yoo, Zhining Liu, Xuying Ning, Ruizhong Qiu, Wen-Yen Chen, Shuo Chang, Rong Jin, Huayu Li, Hanghang Tong
+23. "Ensuring user-side fairness in dynamic recommender systems", ACM Web Conference, 2024, Hyunsik Yoo, Zhichen Zeng, Jian Kang, Ruizhong Qiu, David Zhou, Zhining Liu, Fei Wang, Charlie Xu, Eunice Chan, Hanghang Tong
+24. "On the sensitivity of individual fairness: Measures and robust algorithms", 33rd ACM International Conference on Information and Knowledge Management, 2024, Xinyu He, Jian Kang, Ruizhong Qiu, Fei Wang, Jose Sepulveda, Hanghang Tong
+25. "Group fairness via group consensus", 2024 ACM Conference on Fairness, Accountability, and Transparency, 2024, Eunice Chan*, Zhining Liu*, Ruizhong Qiu, Yuheng Zhang, Ross Maciejewski, Hanghang Tong
 
 
 Workshop Papers:

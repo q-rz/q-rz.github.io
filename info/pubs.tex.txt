@@ -20,13 +20,15 @@
 \Pub{Reconstructing graph diffusion history from a single snapshot}{\BF{Ruizhong Qiu}, Dingsu Wang, Lei Ying, H. Vincent Poor, Yifang Zhang, Hanghang Tong}{KDD}{2023}
 \Pub{Networked time series imputation via position-aware graph enhanced variational autoencoders}{Dingsu Wang, Yuchen Yan, \BF{Ruizhong Qiu}, Yada Zhu, Kaiyu Guan, Andrew J. Margenot, Hanghang Tong}{KDD}{2023}
 \Pub{Embracing plasticity: Balancing stability and plasticity in continual recommender systems}{Hyunsik Yoo, SeongKu Kang, \BF{Ruizhong Qiu}, Charlie Xu, Fei Wang, Hanghang Tong}{SIGIR}{2025}
+\Pub{Guiding generative recommender systems with structured human priors via multi-head decoding}{Yunkai Zhang, Qiang Zhang, Diji Yang, Ryan Lin, \BF{Ruizhong Qiu}, Benyu Zhang, Hanchao Yu, Jason Liu, Yinglong Xia, Zhuokai Zhao, Lizhu Zhang, Xiangjun Fan, Zhuoran Yu, Abhishek Kumar, Zeyu Zheng}{WWW}{2026}
+\Pub{Mixture of sequence: Theme-aware mixture-of-experts for long-sequence recommendation}{Xiao Lin, Zhicheng Tang, Weilin Cong, Mengyue Hang, Kai Wang, Yajuan Wang, Zhichen Zeng, Ting-Wei Li, Hyunsik Yoo, Zhining Liu, Xuying Ning, \BF{Ruizhong Qiu}, Wen-Yen Chen, Shuo Chang, Rong Jin, Huayu Li, Hanghang Tong}{WWW}{2026}
 \Pub{Ensuring user-side fairness in dynamic recommender systems}{Hyunsik Yoo, Zhichen Zeng, Jian Kang, \BF{Ruizhong Qiu}, David Zhou, Zhining Liu, Fei Wang, Charlie Xu, Eunice Chan, Hanghang Tong}{WWW}{2024}
 \Pub{On the sensitivity of individual fairness: Measures and robust algorithms}{Xinyu He, Jian Kang, \BF{Ruizhong Qiu}, Fei Wang, Jose Sepulveda, Hanghang Tong}{CIKM}{2024}
 \Pub{Group fairness via group consensus}{Eunice Chan*, Zhining Liu*, \BF{Ruizhong Qiu}, Yuheng Zhang, Ross Maciejewski, Hanghang Tong}{FAccT}{2024}
 }
 \BF{Workshop Papers:}
 \Pubs{
-\setcounter{enumi}{23}
+\setcounter{enumi}{25}
 \Pub{Efficient inference scaling for safety assurance}{\BF{Ruizhong Qiu}*, Gaotang Li*, Ting-Wei Li*, Tianxin Wei, Jingrui He, Hanghang Tong}{VLMRWD@NeurIPS}{2025}
 \Pub{FineAMP: Optimization-based automatic mixed precision quantization for efficient diffusion model inference}{Burak Bartan, \BF{Ruizhong Qiu}, Rafael Esteves, Yuwei Ren, Weiliang Will Zeng, An Chen}{OPT@NeurIPS}{2025}
 \Pub{FineAMP: Optimization-based automatic mixed precision quantization for efficient diffusion model inference}{Burak Bartan, \BF{Ruizhong Qiu}, Rafael Esteves, Yuwei Ren, Weiliang Will Zeng, An Chen}{COML@NeurIPS}{2025}
@@ -34,7 +36,7 @@
 }
 \BF{Preprints:}
 \Pubs{
-\setcounter{enumi}{27}
+\setcounter{enumi}{29}
 \Pub{Beyond log likelihood: Probability-based objectives for supervised fine-tuning across the model capability continuum}{Gaotang Li*, \BF{Ruizhong Qiu}*, Xiusi Chen*, Heng Ji, Hanghang Tong}{}{2025}
 \Pub{Latent collaboration in multi-agent systems}{Jiaru Zou*, Xiyuan Yang*, \BF{Ruizhong Qiu}*, Gaotang Li*, Katherine Tieu*, Pan Lu*, Ke Shen, Hanghang Tong, Yejin Choi, Jingrui He, James Zou, Mengdi Wang, Ling Yang}{}{2025}
 \Pub{WAPITI: A watermark for finetuned open-source LLMs}{Lingjie Chen*, \BF{Ruizhong Qiu}*, Siyu Yuan, Zhining Liu, Tianxin Wei, Hyunsik Yoo, Zhichen Zeng, Deqing Yang}{}{2024}
