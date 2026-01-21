@@ -26,6 +26,10 @@ Conference Papers:
 25. "Group fairness via group consensus", 2024 ACM Conference on Fairness, Accountability, and Transparency, 2024, Eunice Chan*, Zhining Liu*, Ruizhong Qiu, Yuheng Zhang, Ross Maciejewski, Hanghang Tong
 
 
+Journal Papers:
+1. "DiffKGW: Stealthy and robust diffusion model watermarking", Transactions on Machine Learning Research, 2026, Tianxin Wei, Ruizhong Qiu, Yifan Chen, Yunzhe Qi, Jiacheng Lin, Wenxuan Bao, Wenju Xu, Sreyashi Nag, Ruirui Li, Hanqing Lu, Zhengyang Wang, Chen Luo, Hui Liu, Suhang Wang, Jingrui He, Qi He, Xianfeng Tang
+
+
 Workshop Papers:
 1. "Efficient inference scaling for safety assurance", NeurIPS 2025 Workshop on Vision--Language Model Real-World Deployment, 2025, Ruizhong Qiu*, Gaotang Li*, Ting-Wei Li*, Tianxin Wei, Jingrui He, Hanghang Tong
 2. "FineAMP: Optimization-based automatic mixed precision quantization for efficient diffusion model inference", 17th International OPT Workshop on Optimization for Machine Learning, 2025, Burak Bartan, Ruizhong Qiu, Rafael Esteves, Yuwei Ren, Weiliang Will Zeng, An Chen

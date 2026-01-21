@@ -26,9 +26,14 @@
 \Pub{On the sensitivity of individual fairness: Measures and robust algorithms}{Xinyu He, Jian Kang, \BF{Ruizhong Qiu}, Fei Wang, Jose Sepulveda, Hanghang Tong}{CIKM}{2024}
 \Pub{Group fairness via group consensus}{Eunice Chan*, Zhining Liu*, \BF{Ruizhong Qiu}, Yuheng Zhang, Ross Maciejewski, Hanghang Tong}{FAccT}{2024}
 }
-\BF{Workshop Papers:}
+\BF{Journal Papers:}
 \Pubs{
 \setcounter{enumi}{25}
+\Pub{DiffKGW: Stealthy and robust diffusion model watermarking}{Tianxin Wei, \BF{Ruizhong Qiu}, Yifan Chen, Yunzhe Qi, Jiacheng Lin, Wenxuan Bao, Wenju Xu, Sreyashi Nag, Ruirui Li, Hanqing Lu, Zhengyang Wang, Chen Luo, Hui Liu, Suhang Wang, Jingrui He, Qi He, Xianfeng Tang}{TMLR}{2026}
+}
+\BF{Workshop Papers:}
+\Pubs{
+\setcounter{enumi}{26}
 \Pub{Efficient inference scaling for safety assurance}{\BF{Ruizhong Qiu}*, Gaotang Li*, Ting-Wei Li*, Tianxin Wei, Jingrui He, Hanghang Tong}{VLMRWD@NeurIPS}{2025}
 \Pub{FineAMP: Optimization-based automatic mixed precision quantization for efficient diffusion model inference}{Burak Bartan, \BF{Ruizhong Qiu}, Rafael Esteves, Yuwei Ren, Weiliang Will Zeng, An Chen}{OPT@NeurIPS}{2025}
 \Pub{FineAMP: Optimization-based automatic mixed precision quantization for efficient diffusion model inference}{Burak Bartan, \BF{Ruizhong Qiu}, Rafael Esteves, Yuwei Ren, Weiliang Will Zeng, An Chen}{COML@NeurIPS}{2025}
@@ -36,7 +41,7 @@
 }
 \BF{Preprints:}
 \Pubs{
-\setcounter{enumi}{29}
+\setcounter{enumi}{30}
 \Pub{Beyond log likelihood: Probability-based objectives for supervised fine-tuning across the model capability continuum}{Gaotang Li*, \BF{Ruizhong Qiu}*, Xiusi Chen*, Heng Ji, Hanghang Tong}{}{2025}
 \Pub{Latent collaboration in multi-agent systems}{Jiaru Zou*, Xiyuan Yang*, \BF{Ruizhong Qiu}*, Gaotang Li*, Katherine Tieu*, Pan Lu*, Ke Shen, Hanghang Tong, Yejin Choi, Jingrui He, James Zou, Mengdi Wang, Ling Yang}{}{2025}
 \Pub{WAPITI: A watermark for finetuned open-source LLMs}{Lingjie Chen*, \BF{Ruizhong Qiu}*, Siyu Yuan, Zhining Liu, Tianxin Wei, Hyunsik Yoo, Zhichen Zeng, Deqing Yang}{}{2024}
