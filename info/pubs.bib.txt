@@ -1,0 +1,288 @@
+@inproceedings{
+title={{Graph} homophily booster: {Rethinking} the role of discrete features on heterophilic graphs},
+author={Ruizhong and Qiu**\*, and Ting-Wei and Li\*, and Gaotang and Li, and Hanghang and Tong},
+booktitle={The Fourteenth International Conference on Learning Representations},
+year={2026},
+}
+@inproceedings{
+title={{Influence-preserving} proxies for gradient-based data selection in {LLM} finetuning},
+author={Sirui and Chen, and Yunzhe and Qi, and Mengting and Ai, and Yifan and Sun, and Ruizhong and Qiu**, and Jiaru and Zou, and Jingrui and He},
+booktitle={The Fourteenth International Conference on Learning Representations},
+year={2026},
+}
+@inproceedings{
+title={{PlanetAlign:} {A} comprehensive {Python} library for benchmarking network alignment},
+author={Qi and Yu, and Zhichen and Zeng, and Yuchen and Yan, and Zhining and Liu, and Baoyu and Jing, and Ruizhong and Qiu**, and Ariful and Azad, and Hanghang and Tong},
+booktitle={The Fourteenth International Conference on Learning Representations},
+year={2026},
+}
+@inproceedings{
+title={{Ask,} and it shall be given: {On} the {Turing} completeness of prompting},
+author={Ruizhong and Qiu**, and Zhe and Xu, and Wenxuan and Bao, and Hanghang and Tong},
+booktitle={The Thirteenth International Conference on Learning Representations},
+year={2025},
+}
+@inproceedings{
+title={{How} efficient is {LLM-generated} code? {A} rigorous & high-standard benchmark},
+author={Ruizhong and Qiu**, and Weiliang and Will and Zeng, and James and Ezick, and Christopher and Lott, and Hanghang and Tong},
+booktitle={The Thirteenth International Conference on Learning Representations},
+year={2025},
+}
+@inproceedings{
+title={{Model-free} graph data selection under distribution shift},
+author={Ting-Wei and Li, and Ruizhong and Qiu**, and Hanghang and Tong},
+booktitle={Advances in Neural Information Processing Systems 38},
+year={2025},
+}
+@inproceedings{
+title={{Transformer} copilot: {Learning} from the mistake log in {LLM} fine-tuning},
+author={Jiaru and Zou, and Yikun and Ban, and Zihao and Li, and Yunzhe and Qi, and Ruizhong and Qiu**, and Ling and Yang, and Jingrui and He},
+booktitle={Advances in Neural Information Processing Systems 38},
+year={2025},
+}
+@inproceedings{
+title={{Discrete-state} continuous-time diffusion for graph generation},
+author={Zhe and Xu, and Ruizhong and Qiu**, and Yuzhong and Chen, and Huiyuan and Chen, and Xiran and Fan, and Menghai and Pan, and Zhichen and Zeng, and Mahashweta and Das, and Hanghang and Tong},
+booktitle={Advances in Neural Information Processing Systems 37},
+year={2024},
+}
+@inproceedings{
+title={{BackTime:} {Backdoor} attacks on multivariate time series forecasting},
+author={Xiao and Lin, and Zhining and Liu, and Dongqi and Fu, and Ruizhong and Qiu**, and Hanghang and Tong},
+booktitle={Advances in Neural Information Processing Systems 37},
+year={2024},
+}
+@inproceedings{
+title={{DIMES:} {A} differentiable meta solver for combinatorial optimization problems},
+author={Ruizhong and Qiu**\*, and Zhiqing and Sun\*, and Yiming and Yang},
+booktitle={Advances in Neural Information Processing Systems 35},
+year={2022},
+}
+@inproceedings{
+title={{Breaking} silos: {Adaptive} model fusion unlocks better time series forecasting},
+author={Zhining and Liu, and Ze and Yang, and Xiao and Lin, and Ruizhong and Qiu**, and Tianxin and Wei, and Yada and Zhu, and Hendrik and Hamann, and Jingrui and He, and Hanghang and Tong},
+booktitle={Proceedings of the 42nd International Conference on Machine Learning},
+year={2025},
+}
+@inproceedings{
+title={{Gradient} compressed sensing: {A} query-efficient gradient estimator for high-dimensional zeroth-order optimization},
+author={Ruizhong and Qiu**, and Hanghang and Tong},
+booktitle={Proceedings of the 41st International Conference on Machine Learning},
+year={2024},
+}
+@inproceedings{
+title={{Graph} mixup on approximate {Gromov–Wasserstein} geodesics},
+author={Zhichen and Zeng, and Ruizhong and Qiu**, and Zhe and Xu, and Zhining and Liu, and Yuchen and Yan, and Tianxin and Wei, and Lei and Ying, and Jingrui and He, and Hanghang and Tong},
+booktitle={Proceedings of the 41st International Conference on Machine Learning},
+year={2024},
+}
+@inproceedings{
+title={{Class-imbalanced} graph learning without class rebalancing},
+author={Zhining and Liu, and Ruizhong and Qiu**, and Zhichen and Zeng, and Hyunsik and Yoo, and David and Zhou, and Zhe and Xu, and Yada and Zhu, and Kommy and Weldemariam, and Jingrui and He, and Hanghang and Tong},
+booktitle={Proceedings of the 41st International Conference on Machine Learning},
+year={2024},
+}
+@inproceedings{
+title={{TUCKET:} {A} tensor time series data structure for efficient and accurate factor analysis over time ranges},
+author={Ruizhong and Qiu**\*, and Jun-Gi and Jang\*, and Xiao and Lin, and Lihui and Liu, and Hanghang and Tong},
+booktitle={Proceedings of the VLDB Endowment 17},, number={13},
+year={2024},
+}
+@inproceedings{
+title={{Latte:} {Collaborative} test-time adaptation of vision-language models in federated learning},
+author={Wenxuan and Bao, and Ruxi and Deng, and Ruizhong and Qiu**, and Tianxin and Wei, and Hanghang and Tong, and Jingrui and He},
+booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+year={2025},
+}
+@article{
+title={{Harnessing} consistency for robust test-time {LLM} ensemble},
+author={Zhichen and Zeng, and Qi and Yu, and Xiao and Lin, and Ruizhong and Qiu**, and Xuying and Ning, and Tianxin and Wei, and Yuchen and Yan, and Jingrui and He, and Hanghang and Tong},
+journal={Findings of EACL 2026},
+year={2026},
+}
+@inproceedings{
+title={{PowerGrow:} {Feasible} co-growth of structures and dynamics for power grid synthesis},
+author={Xinyu and He, and Chenhan and Xiao, and Haoran and Li, and Ruizhong and Qiu**, and Zhe and Xu, and Yang and Weng, and Jingrui and He, and Hanghang and Tong},
+booktitle={Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining},
+year={2026},
+}
+@inproceedings{
+title={{Generalizable} recommender system during temporal popularity distribution shifts},
+author={Hyunsik and Yoo, and Ruizhong and Qiu**, and Charlie and Xu, and Fei and Wang, and Hanghang and Tong},
+booktitle={Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining},
+year={2025},
+}
+@inproceedings{
+title={{AIM:} {Attributing,} interpreting, mitigating data-encoded unfairness},
+author={Zhining and Liu, and Ruizhong and Qiu**, and Zhichen and Zeng, and Yada and Zhu, and Hendrik and Hamann, and Hanghang and Tong},
+booktitle={Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining},
+year={2024},
+}
+@inproceedings{
+title={{Reconstructing} graph diffusion history from a single snapshot},
+author={Ruizhong and Qiu**, and Dingsu and Wang, and Lei and Ying, and H. and Vincent and Poor, and Yifang and Zhang, and Hanghang and Tong},
+booktitle={Proceedings of the 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining},
+year={2023},
+}
+@inproceedings{
+title={{Networked} time series imputation via position-aware graph enhanced variational autoencoders},
+author={Dingsu and Wang, and Yuchen and Yan, and Ruizhong and Qiu**, and Yada and Zhu, and Kaiyu and Guan, and Andrew and J. and Margenot, and Hanghang and Tong},
+booktitle={Proceedings of the 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining},
+year={2023},
+}
+@inproceedings{
+title={{Embracing} plasticity: {Balancing} stability and plasticity in continual recommender systems},
+author={Hyunsik and Yoo, and SeongKu and Kang, and Ruizhong and Qiu**, and Charlie and Xu, and Fei and Wang, and Hanghang and Tong},
+booktitle={Proceedings of the 48th International ACM SIGIR Conference on Research and Development in Information Retrieval},
+year={2025},
+}
+@inproceedings{
+title={{Guiding} generative recommender systems with structured human priors via multi-head decoding},
+author={Yunkai and Zhang, and Qiang and Zhang, and Diji and Yang, and Ryan and Lin, and Ruizhong and Qiu**, and Benyu and Zhang, and Hanchao and Yu, and Jason and Liu, and Yinglong and Xia, and Zhuokai and Zhao, and Lizhu and Zhang, and Xiangjun and Fan, and Zhuoran and Yu, and Abhishek and Kumar, and Zeyu and Zheng},
+booktitle={Proceedings of the ACM Web Conference 2026},
+year={2026},
+}
+@inproceedings{
+title={{Mixture} of sequence: {Theme-aware} mixture-of-experts for long-sequence recommendation},
+author={Xiao and Lin, and Zhicheng and Tang, and Weilin and Cong, and Mengyue and Hang, and Kai and Wang, and Yajuan and Wang, and Zhichen and Zeng, and Ting-Wei and Li, and Hyunsik and Yoo, and Zhining and Liu, and Xuying and Ning, and Ruizhong and Qiu**, and Wen-Yen and Chen, and Shuo and Chang, and Rong and Jin, and Huayu and Li, and Hanghang and Tong},
+booktitle={Proceedings of the ACM Web Conference 2026},
+year={2026},
+}
+@inproceedings{
+title={{Ensuring} user-side fairness in dynamic recommender systems},
+author={Hyunsik and Yoo, and Zhichen and Zeng, and Jian and Kang, and Ruizhong and Qiu**, and David and Zhou, and Zhining and Liu, and Fei and Wang, and Charlie and Xu, and Eunice and Chan, and Hanghang and Tong},
+booktitle={Proceedings of the ACM Web Conference 2024},
+year={2024},
+}
+@inproceedings{
+title={{On} the sensitivity of individual fairness: {Measures} and robust algorithms},
+author={Xinyu and He, and Jian and Kang, and Ruizhong and Qiu**, and Fei and Wang, and Jose and Sepulveda, and Hanghang and Tong},
+booktitle={Proceedings of the 33rd ACM International Conference on Information and Knowledge Management},
+year={2024},
+}
+@inproceedings{
+title={{Group} fairness via group consensus},
+author={Eunice and Chan\*, and Zhining and Liu\*, and Ruizhong and Qiu**, and Yuheng and Zhang, and Ross and Maciejewski, and Hanghang and Tong},
+booktitle={Proceedings of the 2024 ACM Conference on Fairness, Accountability, and Transparency},
+year={2024},
+}
+@article{
+title={{Pave} your own path: {Graph} gradual domain adaptation on fused {Gromov–Wasserstein} geodesics},
+author={Zhichen and Zeng, and Ruizhong and Qiu**, and Wenxuan and Bao, and Tianxin and Wei, and Xiao and Lin, and Yuchen and Yan, and Tarek and F. and Abdelzaher, and Jiawei and Han, and Hanghang and Tong},
+journal={Transactions on Machine Learning Research},
+year={2026},
+}
+@article{
+title={{DiffKGW:} {Stealthy} and robust diffusion model watermarking},
+author={Tianxin and Wei, and Ruizhong and Qiu**, and Yifan and Chen, and Yunzhe and Qi, and Jiacheng and Lin, and Wenxuan and Bao, and Wenju and Xu, and Sreyashi and Nag, and Ruirui and Li, and Hanqing and Lu, and Zhengyang and Wang, and Chen and Luo, and Hui and Liu, and Suhang and Wang, and Jingrui and He, and Qi and He, and Xianfeng and Tang},
+journal={Transactions on Machine Learning Research},
+year={2026},
+}
+@article{
+title={{Efficient} inference scaling for safety assurance},
+author={Ruizhong and Qiu**\*, and Gaotang and Li\*, and Ting-Wei and Li\*, and Tianxin and Wei, and Jingrui and He, and Hanghang and Tong},
+journal={NeurIPS 2025 Workshop on Vision--Language Model Real-World Deployment},
+year={2025},
+}
+@article{
+title={{FineAMP:} {Optimization-based} automatic mixed precision quantization for efficient diffusion model inference},
+author={Burak and Bartan, and Ruizhong and Qiu**, and Rafael and Esteves, and Yuwei and Ren, and Weiliang and Will and Zeng, and An and Chen},
+journal={The 17th International OPT Workshop on Optimization for Machine Learning},
+year={2025},
+}
+@article{
+title={{FineAMP:} {Optimization-based} automatic mixed precision quantization for efficient diffusion model inference},
+author={Burak and Bartan, and Ruizhong and Qiu**, and Rafael and Esteves, and Yuwei and Ren, and Weiliang and Will and Zeng, and An and Chen},
+journal={NeurIPS 2025 Workshop on Constrained Optimization for Machine Learning},
+year={2025},
+}
+@article{
+title={{Haystack} engineering: {Context} engineering meets the long-context challenge in large language models},
+author={Mufei and Li, and Dongqi and Fu, and Limei and Wang, and Si and Zhang, and Hanqing and Zeng, and Kaan and Sancak, and Ruizhong and Qiu**, and Haoyu and Peter and Wang, and Xiaoxin and He, and Xavier and Bresson, and Yinglong and Xia, and Chonglin and Sun, and Pan and Li},
+journal={NeurIPS 2025 Workshop on Evaluating the Evolving LLM Lifecycle: Benchmarks, Emergent Abilities, and Scaling},
+year={2025},
+}
+@article{
+title={{ReMix:} {Reinforcement} routing for mixtures of {LoRAs} in {LLM} finetuning},
+author={Ruizhong and Qiu**, and Hanqing and Zeng, and Yinglong and Xia, and Yiwen and Meng, and Ren and Chen, and Jiarui and Feng, and Dongqi and Fu, and Qifan and Wang, and Jiayi and Liu, and Jun and Xiao, and Xiangjun and Fan, and Benyu and Zhang, and Hong and Li, and Zhining and Liu, and Hyunsik and Yoo, and Zhichen and Zeng, and Tianxin and Wei, and Hanghang and Tong},
+journal={Under review},
+year={2026},
+}
+@article{
+title={{Agentic} reasoning for large language models: {A} survey},
+author={Tianxin and Wei, and Ting-Wei and Li, and Zhining and Liu, and Xuying and Ning, and Ze and Yang, and Jiaru and Zou, and Zhichen and Zeng, and Ruizhong and Qiu**, and Xiao and Lin, and Dongqi and Fu, and Zihao and Li, and Mengting and Ai, and Duo and Zhou, and Wenxuan and Bao, and Yunzhe and Li, and Gaotang and Li, and Cheng and Qian, and Yu and Wang, and Xiangru and Tang, and Yin and Xiao, and Liri and Fang, and Hui and Liu, and Xianfeng and Tang, and Yuji and Zhang, and Chi and Wang, and Jiaxuan and You, and Heng and Ji, and Hanghang and Tong, and Jingrui and He},
+journal={HuggingFace #1 of the Week},
+year={2026},
+}
+@article{
+title={{Subspace} alignment for vision-language model test-time adaptation},
+author={Zhichen and Zeng, and Wenxuan and Bao, and Xiao and Lin, and Ruizhong and Qiu**, and Tianxin and Wei, and Xuying and Ning, and Yuchen and Yan, and Chen and Luo, and Monica and Xiao and Cheng, and Jingrui and He, and Hanghang and Tong},
+journal={arXiv preprint},
+year={2026},
+}
+@article{
+title={{AdaFuse:} {Adaptive} ensemble decoding with test-time scaling for {LLMs}},
+author={Chengming and Cui\*, and Tianxin and Wei\*, and Ziyi and Chen, and Ruizhong and Qiu**, and Zhichen and Zeng, and Zhining and Liu, and Xuying and Ning, and Duo and Zhou, and Jingrui and He},
+journal={arXiv preprint},
+year={2026},
+}
+@article{
+title={{CoFiRec:} {Coarse-to-fine} tokenization for generative recommendation},
+author={Tianxin and Wei\*, and Xuying and Ning\*, and Xuxing and Chen\*, and Ruizhong and Qiu**, and Yupeng and Hou, and Yan and Xie, and Shuang and Yang, and Zhigang and Hua, and Jingrui and He},
+journal={arXiv preprint},
+year={2025},
+}
+@article{
+title={{Latent} collaboration in multi-agent systems},
+author={Jiaru and Zou\*, and Xiyuan and Yang\*, and Ruizhong and Qiu**\*, and Gaotang and Li\*, and Katherine and Tieu\*, and Pan and Lu\*, and Ke and Shen, and Hanghang and Tong, and Yejin and Choi, and Jingrui and He, and James and Zou, and Mengdi and Wang, and Ling and Yang},
+journal={arXiv preprint},
+year={2025},
+}
+@article{
+title={{Geometric} disentangelment unlearning},
+author={Duo and Zhou\*, and Yuji and Zhang\*, and Tianxin and Wei, and Ruizhong and Qiu**, and Ke and Yang, and Xiao and Lin, and Cheng and Qian, and Jingrui and He, and Hanghang and Tong, and Heng and Ji, and Huan and Zhang},
+journal={arXiv preprint},
+year={2025},
+}
+@article{
+title={{Hierarchical} {LoRA} {MoE} for efficient {CTR} model scaling},
+author={Zhichen and Zeng, and Mengyue and Hang, and Xiaolong and Liu, and Xiaoyi and Liu, and Xiao and Lin, and Ruizhong and Qiu**, and Tianxin and Wei, and Zhining and Liu, and Siyang and Yuan, and Chaofei and Yang, and Yiqun and Liu, and Hang and Yin, and Jiyan and Yang, and Hanghang and Tong},
+journal={arXiv preprint},
+year={2025},
+}
+@article{
+title={{Beyond} log likelihood: {Probability-based} objectives for supervised fine-tuning across the model capability continuum},
+author={Gaotang and Li\*, and Ruizhong and Qiu**\*, and Xiusi and Chen\*, and Heng and Ji, and Hanghang and Tong},
+journal={arXiv preprint},
+year={2025},
+}
+@article{
+title={{MORALISE:} {A} structured benchmark for moral alignment in visual language models},
+author={Xiao and Lin\*, and Zhining and Liu\*, and Ze and Yang\*, and Gaotang and Li, and Ruizhong and Qiu**, and Shuke and Wang, and Hui and Liu, and Haotian and Li, and Sumit and Keswani, and Vishwa and Pardeshi, and Huijun and Zhao, and Wei and Fan, and Hanghang and Tong},
+journal={arXiv preprint},
+year={2025},
+}
+@article{
+title={{TRQA:} {Time} series reasoning question and answering benchmark},
+author={Baoyu and Jing, and Sanhorn and Chen, and Lecheng and Zheng, and Boyu and Liu, and Zihao and Li, and Jiaru and Zou, and Tianxin and Wei, and Zhining and Liu, and Zhichen and Zeng, and Ruizhong and Qiu**, and Xiao and Lin, and Yuchen and Yan, and Qi and Yu, and Dongqi and Fu, and Jingrui and He, and Hanghang and Tong},
+journal={Under review},
+year={2025},
+}
+@article{
+title={{WAPITI:} {A} watermark for finetuned open-source {LLMs}},
+author={Lingjie and Chen\*, and Ruizhong and Qiu**\*, and Siyu and Yuan, and Zhining and Liu, and Tianxin and Wei, and Hyunsik and Yoo, and Zhichen and Zeng, and Deqing and Yang},
+journal={arXiv preprint},
+year={2024},
+}
+@article{
+title={{Fair} anomaly detection for imbalanced groups},
+author={Ziwei and Wu, and Lecheng and Zheng, and Yuancheng and Yu, and Ruizhong and Qiu**, and John and Birge, and Jingrui and He},
+journal={arXiv preprint},
+year={2024},
+}
+@article{
+title={{Logic} query of thoughts: {Guiding} large language models to answer complex logic queries with knowledge graphs},
+author={Lihui and Liu, and Zihao and Wang, and Ruizhong and Qiu**, and Yikun and Ban, and Eunice and Chan, and Yangqiu and Song, and Jingrui and He, and Hanghang and Tong},
+journal={arXiv preprint},
+year={2024},
+}

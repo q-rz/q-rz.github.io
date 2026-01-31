@@ -1,4 +1,48 @@
-\BF{Preprints:}
-\Pubs{
-\Pub{Logic query of thoughts: Guiding large language models to answer complex logic queries with knowledge graphs}{Lihui Liu, Zihao Wang, \BF{Ruizhong Qiu}, Yikun Ban, Eunice Chan, Yangqiu Song, Jingrui He, Hanghang Tong}{}{2024}
-}
+\Pub{Graph homophily booster: Rethinking the role of discrete features on heterophilic graphs}{\BF{Ruizhong Qiu}*, Ting-Wei Li*, Gaotang Li, Hanghang Tong}{ICLR}{2026}
+\Pub{Influence-preserving proxies for gradient-based data selection in LLM finetuning}{Sirui Chen, Yunzhe Qi, Mengting Ai, Yifan Sun, \BF{Ruizhong Qiu}, Jiaru Zou, Jingrui He}{ICLR}{2026}
+\Pub{PlanetAlign: A comprehensive Python library for benchmarking network alignment}{Qi Yu, Zhichen Zeng, Yuchen Yan, Zhining Liu, Baoyu Jing, \BF{Ruizhong Qiu}, Ariful Azad, Hanghang Tong}{ICLR}{2026}
+\Pub{Ask, and it shall be given: On the Turing completeness of prompting}{\BF{Ruizhong Qiu}, Zhe Xu, Wenxuan Bao, Hanghang Tong}{ICLR}{2025}
+\Pub{How efficient is LLM-generated code? A rigorous & high-standard benchmark}{\BF{Ruizhong Qiu}, Weiliang Will Zeng, James Ezick, Christopher Lott, Hanghang Tong}{ICLR}{2025}
+\Pub{Model-free graph data selection under distribution shift}{Ting-Wei Li, \BF{Ruizhong Qiu}, Hanghang Tong}{NeurIPS}{2025}
+\Pub{Transformer copilot: Learning from the mistake log in LLM fine-tuning}{Jiaru Zou, Yikun Ban, Zihao Li, Yunzhe Qi, \BF{Ruizhong Qiu}, Ling Yang, Jingrui He}{NeurIPS}{2025}
+\Pub{Discrete-state continuous-time diffusion for graph generation}{Zhe Xu, \BF{Ruizhong Qiu}, Yuzhong Chen, Huiyuan Chen, Xiran Fan, Menghai Pan, Zhichen Zeng, Mahashweta Das, Hanghang Tong}{NeurIPS}{2024}
+\Pub{BackTime: Backdoor attacks on multivariate time series forecasting}{Xiao Lin, Zhining Liu, Dongqi Fu, \BF{Ruizhong Qiu}, Hanghang Tong}{NeurIPS}{2024}
+\Pub{DIMES: A differentiable meta solver for combinatorial optimization problems}{\BF{Ruizhong Qiu}*, Zhiqing Sun*, Yiming Yang}{NeurIPS}{2022}
+\Pub{Breaking silos: Adaptive model fusion unlocks better time series forecasting}{Zhining Liu, Ze Yang, Xiao Lin, \BF{Ruizhong Qiu}, Tianxin Wei, Yada Zhu, Hendrik Hamann, Jingrui He, Hanghang Tong}{ICML}{2025}
+\Pub{Gradient compressed sensing: A query-efficient gradient estimator for high-dimensional zeroth-order optimization}{\BF{Ruizhong Qiu}, Hanghang Tong}{ICML}{2024}
+\Pub{Graph mixup on approximate Gromov–Wasserstein geodesics}{Zhichen Zeng, \BF{Ruizhong Qiu}, Zhe Xu, Zhining Liu, Yuchen Yan, Tianxin Wei, Lei Ying, Jingrui He, Hanghang Tong}{ICML}{2024}
+\Pub{Class-imbalanced graph learning without class rebalancing}{Zhining Liu, \BF{Ruizhong Qiu}, Zhichen Zeng, Hyunsik Yoo, David Zhou, Zhe Xu, Yada Zhu, Kommy Weldemariam, Jingrui He, Hanghang Tong}{ICML}{2024}
+\Pub{TUCKET: A tensor time series data structure for efficient and accurate factor analysis over time ranges}{\BF{Ruizhong Qiu}*, Jun-Gi Jang*, Xiao Lin, Lihui Liu, Hanghang Tong}{VLDB}{2024}
+\Pub{Latte: Collaborative test-time adaptation of vision-language models in federated learning}{Wenxuan Bao, Ruxi Deng, \BF{Ruizhong Qiu}, Tianxin Wei, Hanghang Tong, Jingrui He}{ICCV}{2025}
+\Pub{Harnessing consistency for robust test-time LLM ensemble}{Zhichen Zeng, Qi Yu, Xiao Lin, \BF{Ruizhong Qiu}, Xuying Ning, Tianxin Wei, Yuchen Yan, Jingrui He, Hanghang Tong}{EACL}{2026}
+\Pub{PowerGrow: Feasible co-growth of structures and dynamics for power grid synthesis}{Xinyu He, Chenhan Xiao, Haoran Li, \BF{Ruizhong Qiu}, Zhe Xu, Yang Weng, Jingrui He, Hanghang Tong}{KDD}{2026}
+\Pub{Generalizable recommender system during temporal popularity distribution shifts}{Hyunsik Yoo, \BF{Ruizhong Qiu}, Charlie Xu, Fei Wang, Hanghang Tong}{KDD}{2025}
+\Pub{AIM: Attributing, interpreting, mitigating data-encoded unfairness}{Zhining Liu, \BF{Ruizhong Qiu}, Zhichen Zeng, Yada Zhu, Hendrik Hamann, Hanghang Tong}{KDD}{2024}
+\Pub{Reconstructing graph diffusion history from a single snapshot}{\BF{Ruizhong Qiu}, Dingsu Wang, Lei Ying, H. Vincent Poor, Yifang Zhang, Hanghang Tong}{KDD}{2023}
+\Pub{Networked time series imputation via position-aware graph enhanced variational autoencoders}{Dingsu Wang, Yuchen Yan, \BF{Ruizhong Qiu}, Yada Zhu, Kaiyu Guan, Andrew J. Margenot, Hanghang Tong}{KDD}{2023}
+\Pub{Embracing plasticity: Balancing stability and plasticity in continual recommender systems}{Hyunsik Yoo, SeongKu Kang, \BF{Ruizhong Qiu}, Charlie Xu, Fei Wang, Hanghang Tong}{SIGIR}{2025}
+\Pub{Guiding generative recommender systems with structured human priors via multi-head decoding}{Yunkai Zhang, Qiang Zhang, Diji Yang, Ryan Lin, \BF{Ruizhong Qiu}, Benyu Zhang, Hanchao Yu, Jason Liu, Yinglong Xia, Zhuokai Zhao, Lizhu Zhang, Xiangjun Fan, Zhuoran Yu, Abhishek Kumar, Zeyu Zheng}{WWW}{2026}
+\Pub{Mixture of sequence: Theme-aware mixture-of-experts for long-sequence recommendation}{Xiao Lin, Zhicheng Tang, Weilin Cong, Mengyue Hang, Kai Wang, Yajuan Wang, Zhichen Zeng, Ting-Wei Li, Hyunsik Yoo, Zhining Liu, Xuying Ning, \BF{Ruizhong Qiu}, Wen-Yen Chen, Shuo Chang, Rong Jin, Huayu Li, Hanghang Tong}{WWW}{2026}
+\Pub{Ensuring user-side fairness in dynamic recommender systems}{Hyunsik Yoo, Zhichen Zeng, Jian Kang, \BF{Ruizhong Qiu}, David Zhou, Zhining Liu, Fei Wang, Charlie Xu, Eunice Chan, Hanghang Tong}{WWW}{2024}
+\Pub{On the sensitivity of individual fairness: Measures and robust algorithms}{Xinyu He, Jian Kang, \BF{Ruizhong Qiu}, Fei Wang, Jose Sepulveda, Hanghang Tong}{CIKM}{2024}
+\Pub{Group fairness via group consensus}{Eunice Chan*, Zhining Liu*, \BF{Ruizhong Qiu}, Yuheng Zhang, Ross Maciejewski, Hanghang Tong}{FAccT}{2024}
+\Pub{Pave your own path: Graph gradual domain adaptation on fused Gromov–Wasserstein geodesics}{Zhichen Zeng, \BF{Ruizhong Qiu}, Wenxuan Bao, Tianxin Wei, Xiao Lin, Yuchen Yan, Tarek F. Abdelzaher, Jiawei Han, Hanghang Tong}{TMLR}{2026}
+\Pub{DiffKGW: Stealthy and robust diffusion model watermarking}{Tianxin Wei, \BF{Ruizhong Qiu}, Yifan Chen, Yunzhe Qi, Jiacheng Lin, Wenxuan Bao, Wenju Xu, Sreyashi Nag, Ruirui Li, Hanqing Lu, Zhengyang Wang, Chen Luo, Hui Liu, Suhang Wang, Jingrui He, Qi He, Xianfeng Tang}{TMLR}{2026}
+\Pub{Efficient inference scaling for safety assurance}{\BF{Ruizhong Qiu}*, Gaotang Li*, Ting-Wei Li*, Tianxin Wei, Jingrui He, Hanghang Tong}{VLMRWD@NeurIPS}{2025}
+\Pub{FineAMP: Optimization-based automatic mixed precision quantization for efficient diffusion model inference}{Burak Bartan, \BF{Ruizhong Qiu}, Rafael Esteves, Yuwei Ren, Weiliang Will Zeng, An Chen}{OPT@NeurIPS}{2025}
+\Pub{FineAMP: Optimization-based automatic mixed precision quantization for efficient diffusion model inference}{Burak Bartan, \BF{Ruizhong Qiu}, Rafael Esteves, Yuwei Ren, Weiliang Will Zeng, An Chen}{COML@NeurIPS}{2025}
+\Pub{Haystack engineering: Context engineering meets the long-context challenge in large language models}{Mufei Li, Dongqi Fu, Limei Wang, Si Zhang, Hanqing Zeng, Kaan Sancak, \BF{Ruizhong Qiu}, Haoyu Peter Wang, Xiaoxin He, Xavier Bresson, Yinglong Xia, Chonglin Sun, Pan Li}{LLM-eval@NeurIPS}{2025}
+\Pub{ReMix: Reinforcement routing for mixtures of LoRAs in LLM finetuning}{\BF{Ruizhong Qiu}, Hanqing Zeng, Yinglong Xia, Yiwen Meng, Ren Chen, Jiarui Feng, Dongqi Fu, Qifan Wang, Jiayi Liu, Jun Xiao, Xiangjun Fan, Benyu Zhang, Hong Li, Zhining Liu, Hyunsik Yoo, Zhichen Zeng, Tianxin Wei, Hanghang Tong}{Under Review}{2026}
+\Pub{Agentic reasoning for large language models: A survey}{Tianxin Wei, Ting-Wei Li, Zhining Liu, Xuying Ning, Ze Yang, Jiaru Zou, Zhichen Zeng, \BF{Ruizhong Qiu}, Xiao Lin, Dongqi Fu, Zihao Li, Mengting Ai, Duo Zhou, Wenxuan Bao, Yunzhe Li, Gaotang Li, Cheng Qian, Yu Wang, Xiangru Tang, Yin Xiao, Liri Fang, Hui Liu, Xianfeng Tang, Yuji Zhang, Chi Wang, Jiaxuan You, Heng Ji, Hanghang Tong, Jingrui He}{Under Review}{2026}
+\Pub{Subspace alignment for vision-language model test-time adaptation}{Zhichen Zeng, Wenxuan Bao, Xiao Lin, \BF{Ruizhong Qiu}, Tianxin Wei, Xuying Ning, Yuchen Yan, Chen Luo, Monica Xiao Cheng, Jingrui He, Hanghang Tong}{Under Review}{2026}
+\Pub{AdaFuse: Adaptive ensemble decoding with test-time scaling for LLMs}{Chengming Cui*, Tianxin Wei*, Ziyi Chen, \BF{Ruizhong Qiu}, Zhichen Zeng, Zhining Liu, Xuying Ning, Duo Zhou, Jingrui He}{Under Review}{2026}
+\Pub{CoFiRec: Coarse-to-fine tokenization for generative recommendation}{Tianxin Wei*, Xuying Ning*, Xuxing Chen*, \BF{Ruizhong Qiu}, Yupeng Hou, Yan Xie, Shuang Yang, Zhigang Hua, Jingrui He}{Under Review}{2025}
+\Pub{Latent collaboration in multi-agent systems}{Jiaru Zou*, Xiyuan Yang*, \BF{Ruizhong Qiu}*, Gaotang Li*, Katherine Tieu*, Pan Lu*, Ke Shen, Hanghang Tong, Yejin Choi, Jingrui He, James Zou, Mengdi Wang, Ling Yang}{Under Review}{2025}
+\Pub{Geometric disentangelment unlearning}{Duo Zhou*, Yuji Zhang*, Tianxin Wei, \BF{Ruizhong Qiu}, Ke Yang, Xiao Lin, Cheng Qian, Jingrui He, Hanghang Tong, Heng Ji, Huan Zhang}{Under Review}{2025}
+\Pub{Hierarchical LoRA MoE for efficient CTR model scaling}{Zhichen Zeng, Mengyue Hang, Xiaolong Liu, Xiaoyi Liu, Xiao Lin, \BF{Ruizhong Qiu}, Tianxin Wei, Zhining Liu, Siyang Yuan, Chaofei Yang, Yiqun Liu, Hang Yin, Jiyan Yang, Hanghang Tong}{Under Review}{2025}
+\Pub{Beyond log likelihood: Probability-based objectives for supervised fine-tuning across the model capability continuum}{Gaotang Li*, \BF{Ruizhong Qiu}*, Xiusi Chen*, Heng Ji, Hanghang Tong}{Under Review}{2025}
+\Pub{MORALISE: A structured benchmark for moral alignment in visual language models}{Xiao Lin*, Zhining Liu*, Ze Yang*, Gaotang Li, \BF{Ruizhong Qiu}, Shuke Wang, Hui Liu, Haotian Li, Sumit Keswani, Vishwa Pardeshi, Huijun Zhao, Wei Fan, Hanghang Tong}{Under Review}{2025}
+\Pub{TRQA: Time series reasoning question and answering benchmark}{Baoyu Jing, Sanhorn Chen, Lecheng Zheng, Boyu Liu, Zihao Li, Jiaru Zou, Tianxin Wei, Zhining Liu, Zhichen Zeng, \BF{Ruizhong Qiu}, Xiao Lin, Yuchen Yan, Qi Yu, Dongqi Fu, Jingrui He, Hanghang Tong}{Under Review}{2025}
+\Pub{WAPITI: A watermark for finetuned open-source LLMs}{Lingjie Chen*, \BF{Ruizhong Qiu}*, Siyu Yuan, Zhining Liu, Tianxin Wei, Hyunsik Yoo, Zhichen Zeng, Deqing Yang}{Under Review}{2024}
+\Pub{Fair anomaly detection for imbalanced groups}{Ziwei Wu, Lecheng Zheng, Yuancheng Yu, \BF{Ruizhong Qiu}, John Birge, Jingrui He}{Under Review}{2024}
+\Pub{Logic query of thoughts: Guiding large language models to answer complex logic queries with knowledge graphs}{Lihui Liu, Zihao Wang, \BF{Ruizhong Qiu}, Yikun Ban, Eunice Chan, Yangqiu Song, Jingrui He, Hanghang Tong}{Under Review}{2024}
