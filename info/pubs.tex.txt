@@ -3,7 +3,7 @@
 \Pub{PlanetAlign: A comprehensive Python library for benchmarking network alignment}{Qi Yu, Zhichen Zeng, Yuchen Yan, Zhining Liu, Baoyu Jing, \BF{Ruizhong Qiu}, Ariful Azad, Hanghang Tong}{ICLR}{2026}
 \Pub{Ask, and it shall be given: On the Turing completeness of prompting}{\BF{Ruizhong Qiu}, Zhe Xu, Wenxuan Bao, Hanghang Tong}{ICLR}{2025}
 \Pub{How efficient is LLM-generated code? A rigorous & high-standard benchmark}{\BF{Ruizhong Qiu}, Weiliang Will Zeng, James Ezick, Christopher Lott, Hanghang Tong}{ICLR}{2025}
-\Pub{Model-free graph data selection under distribution shift}{Ting-Wei Li, \BF{Ruizhong Qiu}, Hanghang Tong}{NeurIPS}{2025}
+\Pub{Graph data selection for domain adaptation: A model-free approach}{Ting-Wei Li, \BF{Ruizhong Qiu}, Hanghang Tong}{NeurIPS}{2025}
 \Pub{Transformer copilot: Learning from the mistake log in LLM fine-tuning}{Jiaru Zou, Yikun Ban, Zihao Li, Yunzhe Qi, \BF{Ruizhong Qiu}, Ling Yang, Jingrui He}{NeurIPS}{2025}
 \Pub{Discrete-state continuous-time diffusion for graph generation}{Zhe Xu, \BF{Ruizhong Qiu}, Yuzhong Chen, Huiyuan Chen, Xiran Fan, Menghai Pan, Zhichen Zeng, Mahashweta Das, Hanghang Tong}{NeurIPS}{2024}
 \Pub{BackTime: Backdoor attacks on multivariate time series forecasting}{Xiao Lin, Zhining Liu, Dongqi Fu, \BF{Ruizhong Qiu}, Hanghang Tong}{NeurIPS}{2024}
