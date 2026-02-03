@@ -202,6 +202,12 @@ author={Li, Mufei and Fu, Dongqi and Wang, Limei and Zhang, Si and Zeng, Hanqing
 journal={NeurIPS 2025 Workshop on Evaluating the Evolving LLM Lifecycle: Benchmarks, Emergent Abilities, and Scaling},
 year={2025},
 }
+@article{zeng2026polymerarena,
+title={{PolymerArena:} Benchmarking multi-task graph learning models on polymer property prediction},
+author={Zeng, Yinqi and Qiu, Ruizhong and Bei, Yuanchen and Tong, Hanghang and Li, Renjie},
+journal={ChemRxiv preprint},
+year={2026},
+}
 @article{qiu2026remix,
 title={{ReMix:} Reinforcement routing for mixtures of {LoRAs} in {LLM} finetuning},
 author={Qiu, Ruizhong and Zeng, Hanqing and Xia, Yinglong and Meng, Yiwen and Chen, Ren and Feng, Jiarui and Fu, Dongqi and Wang, Qifan and Liu, Jiayi and Xiao, Jun and Fan, Xiangjun and Zhang, Benyu and Li, Hong and Liu, Zhining and Yoo, Hyunsik and Zeng, Zhichen and Wei, Tianxin and Tong, Hanghang},
