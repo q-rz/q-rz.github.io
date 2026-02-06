@@ -1,4 +1,4 @@
-\Pub{Graph homophily booster: Rethinking the role of discrete features on heterophilic graphs}{\BF{Ruizhong Qiu}*, Ting-Wei Li*, Gaotang Li, Hanghang Tong}{ICLR}{2026}
+\Pub{Graph homophily booster: Reimagining the role of discrete features in heterophilic graph learning}{\BF{Ruizhong Qiu}*, Ting-Wei Li*, Gaotang Li, Hanghang Tong}{ICLR}{2026}
 \Pub{Influence-preserving proxies for gradient-based data selection in LLM finetuning}{Sirui Chen, Yunzhe Qi, Mengting Ai, Yifan Sun, \BF{Ruizhong Qiu}, Jiaru Zou, Jingrui He}{ICLR}{2026}
 \Pub{PlanetAlign: A comprehensive Python library for benchmarking network alignment}{Qi Yu, Zhichen Zeng, Yuchen Yan, Zhining Liu, Baoyu Jing, \BF{Ruizhong Qiu}, Ariful Azad, Hanghang Tong}{ICLR}{2026}
 \Pub{Ask, and it shall be given: On the Turing completeness of prompting}{\BF{Ruizhong Qiu}, Zhe Xu, Wenxuan Bao, Hanghang Tong}{ICLR}{2025}
