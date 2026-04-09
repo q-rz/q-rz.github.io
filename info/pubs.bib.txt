@@ -1,15 +1,3 @@
-@inproceedings{xu2026prune,
-title={Prune as you generate: {Online} rollout pruning for faster and better {RLVR}},
-author={Xu, Haobo and Chen, Sirui and Qiu, Ruizhong and Yan, Yuchen and Luo, Chen and Cheng, Monica and He, Jingrui and Tong, Hanghang},
-booktitle={Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)},
-year={2026},
-}
-@inproceedings{cui2026adafuse,
-title={{AdaFuse:} Adaptive ensemble decoding with test-time scaling for {LLMs}},
-author={Cui, Chengming and Wei, Tianxin and Chen, Ziyi and Qiu, Ruizhong and Zeng, Zhichen and Liu, Zhining and Ning, Xuying and Zhou, Duo and He, Jingrui},
-booktitle={Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)},
-year={2026},
-}
 @inproceedings{qiu2026graph,
 title={Graph homophily booster: {Reimagining} the role of discrete features in heterophilic graph learning},
 author={Qiu, Ruizhong and Li, Ting-Wei and Li, Gaotang and Tong, Hanghang},
@@ -99,6 +87,18 @@ title={{TUCKET:} A tensor time series data structure for efficient and accurate 
 author={Qiu, Ruizhong and Jang, Jun-Gi and Lin, Xiao and Liu, Lihui and Tong, Hanghang},
 booktitle={Proceedings of the VLDB Endowment 17}, number={13},
 year={2024},
+}
+@inproceedings{xu2026prune,
+title={Prune as you generate: {Online} rollout pruning for faster and better {RLVR}},
+author={Xu, Haobo and Chen, Sirui and Qiu, Ruizhong and Yan, Yuchen and Luo, Chen and Cheng, Monica and He, Jingrui and Tong, Hanghang},
+booktitle={Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)},
+year={2026},
+}
+@inproceedings{cui2026adafuse,
+title={{AdaFuse:} Adaptive ensemble decoding with test-time scaling for {LLMs}},
+author={Cui, Chengming and Wei, Tianxin and Chen, Ziyi and Qiu, Ruizhong and Zeng, Zhichen and Liu, Zhining and Ning, Xuying and Zhou, Duo and He, Jingrui},
+booktitle={Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)},
+year={2026},
 }
 @inproceedings{bao2025latte,
 title={Latte: Collaborative test-time adaptation of vision-language models in federated learning},

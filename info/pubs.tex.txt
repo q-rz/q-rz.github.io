@@ -1,5 +1,3 @@
-\Pub{Prune as you generate: Online rollout pruning for faster and better RLVR}{Haobo Xu, Sirui Chen, \BF{Ruizhong Qiu}, Yuchen Yan, Chen Luo, Monica Cheng, Jingrui He, Hanghang Tong}{ACL}{2026}
-\Pub{AdaFuse: Adaptive ensemble decoding with test-time scaling for LLMs}{Chengming Cui*, Tianxin Wei*, Ziyi Chen, \BF{Ruizhong Qiu}, Zhichen Zeng, Zhining Liu, Xuying Ning, Duo Zhou, Jingrui He}{ACL}{2026}
 \Pub{Graph homophily booster: Reimagining the role of discrete features in heterophilic graph learning}{\BF{Ruizhong Qiu}*, Ting-Wei Li*, Gaotang Li, Hanghang Tong}{ICLR}{2026}
 \Pub{Influence-preserving proxies for gradient-based data selection in LLM finetuning}{Sirui Chen, Yunzhe Qi, Mengting Ai, Yifan Sun, \BF{Ruizhong Qiu}, Jiaru Zou, Jingrui He}{ICLR}{2026}
 \Pub{PlanetAlign: A comprehensive Python library for benchmarking network alignment}{Qi Yu, Zhichen Zeng, Yuchen Yan, Zhining Liu, Baoyu Jing, \BF{Ruizhong Qiu}, Ariful Azad, Hanghang Tong}{ICLR}{2026}
@@ -15,6 +13,8 @@
 \Pub{Graph mixup on approximate Gromov–Wasserstein geodesics}{Zhichen Zeng, \BF{Ruizhong Qiu}, Zhe Xu, Zhining Liu, Yuchen Yan, Tianxin Wei, Lei Ying, Jingrui He, Hanghang Tong}{ICML}{2024}
 \Pub{Class-imbalanced graph learning without class rebalancing}{Zhining Liu, \BF{Ruizhong Qiu}, Zhichen Zeng, Hyunsik Yoo, David Zhou, Zhe Xu, Yada Zhu, Kommy Weldemariam, Jingrui He, Hanghang Tong}{ICML}{2024}
 \Pub{TUCKET: A tensor time series data structure for efficient and accurate factor analysis over time ranges}{\BF{Ruizhong Qiu}*, Jun-Gi Jang*, Xiao Lin, Lihui Liu, Hanghang Tong}{VLDB}{2024}
+\Pub{Prune as you generate: Online rollout pruning for faster and better RLVR}{Haobo Xu, Sirui Chen, \BF{Ruizhong Qiu}, Yuchen Yan, Chen Luo, Monica Cheng, Jingrui He, Hanghang Tong}{ACL}{2026}
+\Pub{AdaFuse: Adaptive ensemble decoding with test-time scaling for LLMs}{Chengming Cui*, Tianxin Wei*, Ziyi Chen, \BF{Ruizhong Qiu}, Zhichen Zeng, Zhining Liu, Xuying Ning, Duo Zhou, Jingrui He}{ACL}{2026}
 \Pub{Latte: Collaborative test-time adaptation of vision-language models in federated learning}{Wenxuan Bao, Ruxi Deng, \BF{Ruizhong Qiu}, Tianxin Wei, Hanghang Tong, Jingrui He}{ICCV}{2025}
 \Pub{Harnessing consistency for robust test-time LLM ensemble}{Zhichen Zeng, Qi Yu, Xiao Lin, \BF{Ruizhong Qiu}, Xuying Ning, Tianxin Wei, Yuchen Yan, Jingrui He, Hanghang Tong}{EACL}{2026}
 \Pub{PowerGrow: Feasible co-growth of structures and dynamics for power grid synthesis}{Xinyu He, Chenhan Xiao, Haoran Li, \BF{Ruizhong Qiu}, Zhe Xu, Yang Weng, Jingrui He, Hanghang Tong}{KDD}{2026}
