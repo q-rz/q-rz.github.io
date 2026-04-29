@@ -190,6 +190,12 @@ author={Wei, Tianxin and Qiu, Ruizhong and Chen, Yifan and Qi, Yunzhe and Lin, J
 journal={Transactions on Machine Learning Research},
 year={2026},
 }
+@article{jing2026tsaqa,
+title={{TSAQA:} Time series analysis question and answering benchmark},
+author={Jing, Baoyu and Chen, Sanhorn and Zheng, Lecheng and Liu, Boyu and Li, Zihao and Zou, Jiaru and Wei, Tianxin and Liu, Zhining and Zeng, Zhichen and Qiu, Ruizhong and Lin, Xiao and Yan, Yuchen and Yu, Qi and Fu, Dongqi and He, Jingrui and Tong, Hanghang},
+journal={The Fifth Generation, Evaluation & Metrics Workshop},
+year={2026},
+}
 @article{qiu2026remix,
 title={{ReMix:} Reinforcement routing for mixtures of {LoRAs} in {LLM} finetuning},
 author={Qiu, Ruizhong and Zeng, Hanqing and Xia, Yinglong and Meng, Yiwen and Chen, Ren and Feng, Jiarui and Fu, Dongqi and Wang, Qifan and Liu, Jiayi and Xiao, Jun and Fan, Xiangjun and Zhang, Benyu and Li, Hong and Liu, Zhining and Yoo, Hyunsik and Zeng, Zhichen and Wei, Tianxin and Tong, Hanghang},
@@ -278,12 +284,6 @@ year={2025},
 title={{MORALISE:} A structured benchmark for moral alignment in visual language models},
 author={Lin, Xiao and Liu, Zhining and Yang, Ze and Li, Gaotang and Qiu, Ruizhong and Wang, Shuke and Liu, Hui and Li, Haotian and Keswani, Sumit and Pardeshi, Vishwa and Zhao, Huijun and Fan, Wei and Tong, Hanghang},
 journal={arXiv preprint},
-year={2025},
-}
-@article{jing2025trqa,
-title={{TRQA:} Time series reasoning question and answering benchmark},
-author={Jing, Baoyu and Chen, Sanhorn and Zheng, Lecheng and Liu, Boyu and Li, Zihao and Zou, Jiaru and Wei, Tianxin and Liu, Zhining and Zeng, Zhichen and Qiu, Ruizhong and Lin, Xiao and Yan, Yuchen and Yu, Qi and Fu, Dongqi and He, Jingrui and Tong, Hanghang},
-journal={Under review},
 year={2025},
 }
 @article{chen2024wapiti,
