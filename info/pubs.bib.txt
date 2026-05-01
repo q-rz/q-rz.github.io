@@ -1,3 +1,33 @@
+@inproceedings{li2026beyond,
+title={Beyond log likelihood: {Probability-based} objectives for supervised fine-tuning across the model capability continuum},
+author={Li, Gaotang and Qiu, Ruizhong and Chen, Xiusi and Ji, Heng and Tong, Hanghang},
+booktitle={Proceedings of the 43rd International Conference on Machine Learning},
+year={2026},
+}
+@inproceedings{zou2026latent,
+title={Latent collaboration in multi-agent systems},
+author={Zou, Jiaru and Yang, Xiyuan and Qiu, Ruizhong and Li, Gaotang and Tieu, Katherine and Lu, Pan and Shen, Ke and Tong, Hanghang and Choi, Yejin and He, Jingrui and Zou, James and Wang, Mengdi and Yang, Ling},
+booktitle={Proceedings of the 43rd International Conference on Machine Learning},
+year={2026},
+}
+@inproceedings{yu2026avatar,
+title={{AvAtar:} Learning to align via active optimal transport},
+author={Yu, Qi and Qiu, Ruizhong and Zeng, Zhichen and Thai, My T. and Liu, Huan and Tong, Hanghang},
+booktitle={Proceedings of the 43rd International Conference on Machine Learning},
+year={2026},
+}
+@inproceedings{feng2026dag,
+title={{DAG-MoE:} From simple mixture to structural aggregation in mixture-of-experts},
+author={Feng, Jiarui and Zeng, Hanqing and Grover, Karish and Qiu, Ruizhong and Xia, Yinglong and Zhang, Qiang and Wang, Qifan and Chen, Ren and Fu, Dongqi and Liu, Jiayi and Zhao, Zhuokai and Fan, Xiangjun and Zhang, Benyu and Chen, Yixin},
+booktitle={Proceedings of the 43rd International Conference on Machine Learning},
+year={2026},
+}
+@inproceedings{lin2026moralise,
+title={{MORALISE:} A structured benchmark for moral alignment in visual language models},
+author={Lin, Xiao and Liu, Zhining and Yang, Ze and Li, Gaotang and Qiu, Ruizhong and Wang, Shuke and Liu, Hui and Li, Haotian and Keswani, Sumit and Pardeshi, Vishwa and Zhao, Huijun and Fan, Wei and Tong, Hanghang},
+booktitle={Proceedings of the 43rd International Conference on Machine Learning},
+year={2026},
+}
 @inproceedings{qiu2026graph,
 title={Graph homophily booster: {Reimagining} the role of discrete features in heterophilic graph learning},
 author={Qiu, Ruizhong and Li, Ting-Wei and Li, Gaotang and Tong, Hanghang},
@@ -202,12 +232,6 @@ author={Qiu, Ruizhong and Zeng, Hanqing and Xia, Yinglong and Meng, Yiwen and Ch
 journal={ICLR 2026 Workshop on Lifelong Agents: Learning, Aligning, Evolving},
 year={2026},
 }
-@article{li2026beyond,
-title={Beyond log likelihood: {Probability-based} objectives for supervised fine-tuning across the model capability continuum},
-author={Li, Gaotang and Qiu, Ruizhong and Chen, Xiusi and Ji, Heng and Tong, Hanghang},
-journal={ICLR 2026 Workshop on Scaling Post-training for LLMs},
-year={2026},
-}
 @article{qiu2025efficient,
 title={Efficient inference scaling for safety assurance},
 author={Qiu, Ruizhong and Li, Gaotang and Li, Ting-Wei and Wei, Tianxin and He, Jingrui and Tong, Hanghang},
@@ -262,12 +286,6 @@ author={Wei, Tianxin and Ning, Xuying and Chen, Xuxing and Qiu, Ruizhong and Hou
 journal={arXiv preprint},
 year={2025},
 }
-@article{zou2025latent,
-title={Latent collaboration in multi-agent systems},
-author={Zou, Jiaru and Yang, Xiyuan and Qiu, Ruizhong and Li, Gaotang and Tieu, Katherine and Lu, Pan and Shen, Ke and Tong, Hanghang and Choi, Yejin and He, Jingrui and Zou, James and Wang, Mengdi and Yang, Ling},
-journal={arXiv preprint},
-year={2025},
-}
 @article{zhou2025geometric,
 title={Geometric disentangelment unlearning},
 author={Zhou, Duo and Zhang, Yuji and Wei, Tianxin and Qiu, Ruizhong and Yang, Ke and Lin, Xiao and Qian, Cheng and He, Jingrui and Tong, Hanghang and Ji, Heng and Zhang, Huan},
@@ -277,12 +295,6 @@ year={2025},
 @article{zeng2025hierarchical,
 title={Hierarchical {LoRA} {MoE} for efficient {CTR} model scaling},
 author={Zeng, Zhichen and Hang, Mengyue and Liu, Xiaolong and Liu, Xiaoyi and Lin, Xiao and Qiu, Ruizhong and Wei, Tianxin and Liu, Zhining and Yuan, Siyang and Yang, Chaofei and Liu, Yiqun and Yin, Hang and Yang, Jiyan and Tong, Hanghang},
-journal={arXiv preprint},
-year={2025},
-}
-@article{lin2025moralise,
-title={{MORALISE:} A structured benchmark for moral alignment in visual language models},
-author={Lin, Xiao and Liu, Zhining and Yang, Ze and Li, Gaotang and Qiu, Ruizhong and Wang, Shuke and Liu, Hui and Li, Haotian and Keswani, Sumit and Pardeshi, Vishwa and Zhao, Huijun and Fan, Wei and Tong, Hanghang},
 journal={arXiv preprint},
 year={2025},
 }
