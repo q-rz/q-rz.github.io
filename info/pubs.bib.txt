@@ -142,6 +142,12 @@ author={Zeng, Zhichen and Yu, Qi and Lin, Xiao and Qiu, Ruizhong and Ning, Xuyin
 journal={Findings of the Association for Computational Linguistics: EACL 2026},
 year={2026},
 }
+@inproceedings{zuo2026graph,
+title={Graph diffusion history reconstruction via feasibility-aware {Markov} chain {Monte} {Carlo} estimation},
+author={Zuo, Yijing and Qiu, Ruizhong and Chen, Lingjie and Tong, Hanghang},
+booktitle={Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining},
+year={2026},
+}
 @inproceedings{he2026powergrow,
 title={{PowerGrow:} Feasible co-growth of structures and dynamics for power grid synthesis},
 author={He, Xinyu and Xiao, Chenhan and Li, Haoran and Qiu, Ruizhong and Xu, Zhe and Weng, Yang and He, Jingrui and Tong, Hanghang},
