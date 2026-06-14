@@ -22,6 +22,7 @@
 \Pub{AdaFuse: Adaptive ensemble decoding with test-time scaling for LLMs}{Chengming Cui*, Tianxin Wei*, Ziyi Chen, \BF{Ruizhong Qiu}, Zhichen Zeng, Zhining Liu, Xuying Ning, Duo Zhou, Jingrui He}{ACL}{2026}
 \Pub{Latte: Collaborative test-time adaptation of vision-language models in federated learning}{Wenxuan Bao, Ruxi Deng, \BF{Ruizhong Qiu}, Tianxin Wei, Hanghang Tong, Jingrui He}{ICCV}{2025}
 \Pub{Harnessing consistency for robust test-time LLM ensemble}{Zhichen Zeng, Qi Yu, Xiao Lin, \BF{Ruizhong Qiu}, Xuying Ning, Tianxin Wei, Yuchen Yan, Jingrui He, Hanghang Tong}{EACL}{2026}
+\Pub{SCOUT: Coupling-free bounds for trillion-scale top-k retrieval in sparse tensor factorization}{Jun-Gi Jang, Hyunsik Yoo, \BF{Ruizhong Qiu}, Yinglong Xia, Hanghang Tong}{SIGMOD}{2027}
 \Pub{Graph diffusion history reconstruction via feasibility-aware Markov chain Monte Carlo estimation}{Yijing Zuo*, \BF{Ruizhong Qiu}*, Lingjie Chen, Hanghang Tong}{KDD}{2026}
 \Pub{PowerGrow: Feasible co-growth of structures and dynamics for power grid synthesis}{Xinyu He, Chenhan Xiao, Haoran Li, \BF{Ruizhong Qiu}, Zhe Xu, Yang Weng, Jingrui He, Hanghang Tong}{KDD}{2026}
 \Pub{Generalizable recommender system during temporal popularity distribution shifts}{Hyunsik Yoo, \BF{Ruizhong Qiu}, Charlie Xu, Fei Wang, Hanghang Tong}{KDD}{2025}
