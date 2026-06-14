@@ -118,6 +118,12 @@ author={Qiu, Ruizhong and Jang, Jun-Gi and Lin, Xiao and Liu, Lihui and Tong, Ha
 booktitle={Proceedings of the VLDB Endowment 17}, number={13},
 year={2024},
 }
+@inproceedings{jang2027scout,
+title={{SCOUT:} Coupling-free bounds for trillion-scale top-k retrieval in sparse tensor factorization},
+author={Jang, Jun-Gi and Yoo, Hyunsik and Qiu, Ruizhong and Xia, Yinglong and Tong, Hanghang},
+booktitle={ACM SIGMOD/PODS International Conference on Management of Data 2027},
+year={2027},
+}
 @inproceedings{xu2026prune,
 title={Prune as you generate: {Online} rollout pruning for faster and better {RLVR}},
 author={Xu, Haobo and Chen, Sirui and Qiu, Ruizhong and Yan, Yuchen and Luo, Chen and Cheng, Monica and He, Jingrui and Tong, Hanghang},
@@ -141,12 +147,6 @@ title={Harnessing consistency for robust test-time {LLM} ensemble},
 author={Zeng, Zhichen and Yu, Qi and Lin, Xiao and Qiu, Ruizhong and Ning, Xuying and Wei, Tianxin and Yan, Yuchen and He, Jingrui and Tong, Hanghang},
 journal={Findings of the Association for Computational Linguistics: EACL 2026},
 year={2026},
-}
-@inproceedings{jang2027scout,
-title={{SCOUT:} Coupling-free bounds for trillion-scale top-k retrieval in sparse tensor factorization},
-author={Jang, Jun-Gi and Yoo, Hyunsik and Qiu, Ruizhong and Xia, Yinglong and Tong, Hanghang},
-booktitle={ACM SIGMOD/PODS International Conference on Management of Data 2027},
-year={2027},
 }
 @inproceedings{zuo2026graph,
 title={Graph diffusion history reconstruction via feasibility-aware {Markov} chain {Monte} {Carlo} estimation},
