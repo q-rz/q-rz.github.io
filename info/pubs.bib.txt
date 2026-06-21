@@ -232,10 +232,16 @@ author={Wei, Tianxin and Qiu, Ruizhong and Chen, Yifan and Qi, Yunzhe and Lin, J
 journal={Transactions on Machine Learning Research},
 year={2026},
 }
+@article{qiu2026structuring,
+title={Structuring and tokenizing distributed user interest context for generative recommendation},
+author={Qiu, Ruizhong and Xia, Yinglong and Fu, Dongqi and Zeng, Hanqing and Chen, Ren and Fan, Xiangjun and Li, Hong and Yan, Hong and Tong, Hanghang},
+journal={The 5th Workshop on End-to-End Customer Journey Optimization},
+year={2026},
+}
 @article{jing2026tsaqa,
 title={{TSAQA:} Time series analysis question and answering benchmark},
 author={Jing, Baoyu and Chen, Sanhorn and Zheng, Lecheng and Liu, Boyu and Li, Zihao and Zou, Jiaru and Wei, Tianxin and Liu, Zhining and Zeng, Zhichen and Qiu, Ruizhong and Lin, Xiao and Yan, Yuchen and Yu, Qi and Fu, Dongqi and He, Jingrui and Tong, Hanghang},
-journal={The Fifth Generation, Evaluation & Metrics Workshop},
+journal={The Fifth Generation, Evaluation, & Metrics Workshop},
 year={2026},
 }
 @article{qiu2026remix,
