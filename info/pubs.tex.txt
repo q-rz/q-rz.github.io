@@ -3,6 +3,10 @@
 \Pub{AvAtar: Learning to align via active optimal transport}{Qi Yu, \BF{Ruizhong Qiu}, Zhichen Zeng, My T. Thai, Huan Liu, Hanghang Tong}{ICML}{2026}
 \Pub{DAG-MoE: From simple mixture to structural aggregation in mixture-of-experts}{Jiarui Feng, Hanqing Zeng, Karish Grover, \BF{Ruizhong Qiu}, Yinglong Xia, Qiang Zhang, Qifan Wang, Ren Chen, Dongqi Fu, Jiayi Liu, Zhuokai Zhao, Xiangjun Fan, Benyu Zhang, Yixin Chen}{ICML}{2026}
 \Pub{MORALISE: A structured benchmark for moral alignment in visual language models}{Xiao Lin*, Zhining Liu*, Ze Yang*, Gaotang Li, \BF{Ruizhong Qiu}, Shuke Wang, Hui Liu, Haotian Li, Sumit Keswani, Vishwa Pardeshi, Huijun Zhao, Wei Fan, Hanghang Tong}{ICML}{2026}
+\Pub{Breaking silos: Adaptive model fusion unlocks better time series forecasting}{Zhining Liu, Ze Yang, Xiao Lin, \BF{Ruizhong Qiu}, Tianxin Wei, Yada Zhu, Hendrik Hamann, Jingrui He, Hanghang Tong}{ICML}{2025}
+\Pub{Gradient compressed sensing: A query-efficient gradient estimator for high-dimensional zeroth-order optimization}{\BF{Ruizhong Qiu}, Hanghang Tong}{ICML}{2024}
+\Pub{Graph mixup on approximate Gromov–Wasserstein geodesics}{Zhichen Zeng, \BF{Ruizhong Qiu}, Zhe Xu, Zhining Liu, Yuchen Yan, Tianxin Wei, Lei Ying, Jingrui He, Hanghang Tong}{ICML}{2024}
+\Pub{Class-imbalanced graph learning without class rebalancing}{Zhining Liu, \BF{Ruizhong Qiu}, Zhichen Zeng, Hyunsik Yoo, David Zhou, Zhe Xu, Yada Zhu, Kommy Weldemariam, Jingrui He, Hanghang Tong}{ICML}{2024}
 \Pub{Graph homophily booster: Reimagining the role of discrete features in heterophilic graph learning}{\BF{Ruizhong Qiu}*, Ting-Wei Li*, Gaotang Li, Hanghang Tong}{ICLR}{2026}
 \Pub{Influence-preserving proxies for gradient-based data selection in LLM finetuning}{Sirui Chen, Yunzhe Qi, Mengting Ai, Yifan Sun, \BF{Ruizhong Qiu}, Jiaru Zou, Jingrui He}{ICLR}{2026}
 \Pub{PlanetAlign: A comprehensive Python library for benchmarking network alignment}{Qi Yu, Zhichen Zeng, Yuchen Yan, Zhining Liu, Baoyu Jing, \BF{Ruizhong Qiu}, Ariful Azad, Hanghang Tong}{ICLR}{2026}
@@ -13,10 +17,9 @@
 \Pub{Discrete-state continuous-time diffusion for graph generation}{Zhe Xu, \BF{Ruizhong Qiu}, Yuzhong Chen, Huiyuan Chen, Xiran Fan, Menghai Pan, Zhichen Zeng, Mahashweta Das, Hanghang Tong}{NeurIPS}{2024}
 \Pub{BackTime: Backdoor attacks on multivariate time series forecasting}{Xiao Lin, Zhining Liu, Dongqi Fu, \BF{Ruizhong Qiu}, Hanghang Tong}{NeurIPS}{2024}
 \Pub{DIMES: A differentiable meta solver for combinatorial optimization problems}{\BF{Ruizhong Qiu}*, Zhiqing Sun*, Yiming Yang}{NeurIPS}{2022}
-\Pub{Breaking silos: Adaptive model fusion unlocks better time series forecasting}{Zhining Liu, Ze Yang, Xiao Lin, \BF{Ruizhong Qiu}, Tianxin Wei, Yada Zhu, Hendrik Hamann, Jingrui He, Hanghang Tong}{ICML}{2025}
-\Pub{Gradient compressed sensing: A query-efficient gradient estimator for high-dimensional zeroth-order optimization}{\BF{Ruizhong Qiu}, Hanghang Tong}{ICML}{2024}
-\Pub{Graph mixup on approximate Gromov–Wasserstein geodesics}{Zhichen Zeng, \BF{Ruizhong Qiu}, Zhe Xu, Zhining Liu, Yuchen Yan, Tianxin Wei, Lei Ying, Jingrui He, Hanghang Tong}{ICML}{2024}
-\Pub{Class-imbalanced graph learning without class rebalancing}{Zhining Liu, \BF{Ruizhong Qiu}, Zhichen Zeng, Hyunsik Yoo, David Zhou, Zhe Xu, Yada Zhu, Kommy Weldemariam, Jingrui He, Hanghang Tong}{ICML}{2024}
+\Pub{Reinforcement routing for mixtures of LoRAs in parameter-efficient LLM finetuning}{\BF{Ruizhong Qiu}, Hanqing Zeng, Yinglong Xia, Jiarui Feng, Yiwen Meng, Ren Chen, Dongqi Fu, Qifan Wang, Jiayi Liu, Jun Xiao, Xiangjun Fan, Benyu Zhang, Hong Li, Zhining Liu, Hyunsik Yoo, Zhichen Zeng, Tianxin Wei, Hanghang Tong}{COLM}{2026}
+\Pub{TRIMS: Trajectory-ranked instruction masked supervision for diffusion language models}{Lingjie Chen, \BF{Ruizhong Qiu}, Yuyu Fan, Yanjun Zhao, Hanghang Tong}{COLM}{2026}
+\Pub{Inference scaling of LLM ensembling: Bridging token spaces with token translation}{Tianxin Wei, Zhichen Zeng, \BF{Ruizhong Qiu}, Zhining Liu, Xuying Ning, Xinrui He, Wenxuan Bao, Xiao Lin, Qi He, Xianfeng Tang, Hanghang Tong, Jingrui He}{COLM}{2026}
 \Pub{TUCKET: A tensor time series data structure for efficient and accurate factor analysis over time ranges}{\BF{Ruizhong Qiu}*, Jun-Gi Jang*, Xiao Lin, Lihui Liu, Hanghang Tong}{VLDB}{2024}
 \Pub{SCOUT: Coupling-free bounds for trillion-scale top-k retrieval in sparse tensor factorization}{Jun-Gi Jang, Hyunsik Yoo, \BF{Ruizhong Qiu}, Yinglong Xia, Hanghang Tong}{SIGMOD}{2027}
 \Pub{Prune as you generate: Online rollout pruning for faster and better RLVR}{Haobo Xu, Sirui Chen, \BF{Ruizhong Qiu}, Yuchen Yan, Chen Luo, Monica Cheng, Jingrui He, Hanghang Tong}{ACL}{2026}
@@ -39,7 +42,6 @@
 \Pub{DiffKGW: Stealthy and robust diffusion model watermarking}{Tianxin Wei, \BF{Ruizhong Qiu}, Yifan Chen, Yunzhe Qi, Jiacheng Lin, Wenxuan Bao, Wenju Xu, Sreyashi Nag, Ruirui Li, Hanqing Lu, Zhengyang Wang, Chen Luo, Hui Liu, Suhang Wang, Jingrui He, Qi He, Xianfeng Tang}{TMLR}{2026}
 \Pub{Structuring and tokenizing distributed user interest context for generative recommendation}{\BF{Ruizhong Qiu}, Yinglong Xia, Dongqi Fu, Hanqing Zeng, Ren Chen, Xiangjun Fan, Hong Li, Hong Yan, Hanghang Tong}{CJO@KDD}{2026}
 \Pub{TSAQA: Time series analysis question and answering benchmark}{Baoyu Jing, Sanhorn Chen, Lecheng Zheng, Boyu Liu, Zihao Li, Jiaru Zou, Tianxin Wei, Zhining Liu, Zhichen Zeng, \BF{Ruizhong Qiu}, Xiao Lin, Yuchen Yan, Qi Yu, Dongqi Fu, Jingrui He, Hanghang Tong}{GEM@ACL}{2026}
-\Pub{ReMix: Reinforcement routing for mixtures of LoRAs in LLM finetuning}{\BF{Ruizhong Qiu}, Hanqing Zeng, Yinglong Xia, Yiwen Meng, Ren Chen, Jiarui Feng, Dongqi Fu, Qifan Wang, Jiayi Liu, Jun Xiao, Xiangjun Fan, Benyu Zhang, Hong Li, Zhining Liu, Hyunsik Yoo, Zhichen Zeng, Tianxin Wei, Hanghang Tong}{LLA@ICLR}{2026}
 \Pub{Efficient inference scaling for safety assurance}{\BF{Ruizhong Qiu}*, Gaotang Li*, Ting-Wei Li*, Tianxin Wei, Jingrui He, Hanghang Tong}{VLMRWD@NeurIPS}{2025}
 \Pub{FineAMP: Optimization-based automatic mixed precision quantization for efficient diffusion model inference}{Burak Bartan, \BF{Ruizhong Qiu}, Rafael Esteves, Yuwei Ren, Weiliang Will Zeng, An Chen}{OPT@NeurIPS}{2025}
 \Pub{FineAMP: Optimization-based automatic mixed precision quantization for efficient diffusion model inference}{Burak Bartan, \BF{Ruizhong Qiu}, Rafael Esteves, Yuwei Ren, Weiliang Will Zeng, An Chen}{COML@NeurIPS}{2025}
