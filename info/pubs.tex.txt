@@ -27,6 +27,7 @@
 \Pub{Latte: Collaborative test-time adaptation of vision-language models in federated learning}{Wenxuan Bao, Ruxi Deng, \BF{Ruizhong Qiu}, Tianxin Wei, Hanghang Tong, Jingrui He}{ICCV}{2025}
 \Pub{Harnessing consistency for robust test-time LLM ensemble}{Zhichen Zeng, Qi Yu, Xiao Lin, \BF{Ruizhong Qiu}, Xuying Ning, Tianxin Wei, Yuchen Yan, Jingrui He, Hanghang Tong}{EACL}{2026}
 \Pub{Structuring and tokenizing distributed user interest context for generative recommendation}{\BF{Ruizhong Qiu}, Yinglong Xia, Dongqi Fu, Hanqing Zeng, Ren Chen, Xiangjun Fan, Hong Li, Hong Yan, Hanghang Tong}{RecSys Industry}{2026}
+\Pub{Hierarchical semantic tokenization for generative recommendation}{Tianxin Wei*, Xuying Ning*, Xuxing Chen*, \BF{Ruizhong Qiu}, Yupeng Hou, Yan Xie, Shuang Yang, Zhigang Hua, Jingrui He}{RecSys}{2026}
 \Pub{Graph diffusion history reconstruction via feasibility-aware Markov chain Monte Carlo estimation}{Yijing Zuo*, \BF{Ruizhong Qiu}*, Lingjie Chen, Hanghang Tong}{KDD}{2026}
 \Pub{PowerGrow: Feasible co-growth of structures and dynamics for power grid synthesis}{Xinyu He, Chenhan Xiao, Haoran Li, \BF{Ruizhong Qiu}, Zhe Xu, Yang Weng, Jingrui He, Hanghang Tong}{KDD}{2026}
 \Pub{Generalizable recommender system during temporal popularity distribution shifts}{Hyunsik Yoo, \BF{Ruizhong Qiu}, Charlie Xu, Fei Wang, Hanghang Tong}{KDD}{2025}
@@ -50,7 +51,6 @@
 \Pub{PolymerArena: Benchmarking multi-task graph learning models on polymer property prediction}{Yinqi Zeng, \BF{Ruizhong Qiu}, Yuanchen Bei, Hanghang Tong, Renjie Li}{Under Review}{2026}
 \Pub{Agentic reasoning for large language models: A survey}{Tianxin Wei, Ting-Wei Li, Zhining Liu, Xuying Ning, Ze Yang, Jiaru Zou, Zhichen Zeng, \BF{Ruizhong Qiu}, Xiao Lin, Dongqi Fu, Zihao Li, Mengting Ai, Duo Zhou, Wenxuan Bao, Yunzhe Li, Gaotang Li, Cheng Qian, Yu Wang, Xiangru Tang, Yin Xiao, Liri Fang, Hui Liu, Xianfeng Tang, Yuji Zhang, Chi Wang, Jiaxuan You, Heng Ji, Hanghang Tong, Jingrui He}{Under Review}{2026}
 \Pub{Subspace alignment for vision-language model test-time adaptation}{Zhichen Zeng, Wenxuan Bao, Xiao Lin, \BF{Ruizhong Qiu}, Tianxin Wei, Xuying Ning, Yuchen Yan, Chen Luo, Monica Xiao Cheng, Jingrui He, Hanghang Tong}{Under Review}{2026}
-\Pub{CoFiRec: Coarse-to-fine tokenization for generative recommendation}{Tianxin Wei*, Xuying Ning*, Xuxing Chen*, \BF{Ruizhong Qiu}, Yupeng Hou, Yan Xie, Shuang Yang, Zhigang Hua, Jingrui He}{Under Review}{2025}
 \Pub{Geometric disentangelment unlearning}{Duo Zhou*, Yuji Zhang*, Tianxin Wei, \BF{Ruizhong Qiu}, Ke Yang, Xiao Lin, Cheng Qian, Jingrui He, Hanghang Tong, Heng Ji, Huan Zhang}{Under Review}{2025}
 \Pub{Hierarchical LoRA MoE for efficient CTR model scaling}{Zhichen Zeng, Mengyue Hang, Xiaolong Liu, Xiaoyi Liu, Xiao Lin, \BF{Ruizhong Qiu}, Tianxin Wei, Zhining Liu, Siyang Yuan, Chaofei Yang, Yiqun Liu, Hang Yin, Jiyan Yang, Hanghang Tong}{Under Review}{2025}
 \Pub{WAPITI: A watermark for finetuned open-source LLMs}{Lingjie Chen*, \BF{Ruizhong Qiu}*, Siyu Yuan, Zhining Liu, Tianxin Wei, Hyunsik Yoo, Zhichen Zeng, Deqing Yang}{Under Review}{2024}
