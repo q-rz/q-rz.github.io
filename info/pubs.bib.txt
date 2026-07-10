@@ -166,6 +166,12 @@ author={Zeng, Zhichen and Yu, Qi and Lin, Xiao and Qiu, Ruizhong and Ning, Xuyin
 journal={Findings of the Association for Computational Linguistics: EACL 2026},
 year={2026},
 }
+@inproceedings{qiu2026structuring,
+title={Structuring and tokenizing distributed user interest context for generative recommendation},
+author={Qiu, Ruizhong and Xia, Yinglong and Fu, Dongqi and Zeng, Hanqing and Chen, Ren and Fan, Xiangjun and Li, Hong and Yan, Hong and Tong, Hanghang},
+booktitle={Proceedings of the Twentieth ACM Conference on Recommender Systems},
+year={2026},
+}
 @inproceedings{zuo2026graph,
 title={Graph diffusion history reconstruction via feasibility-aware {Markov} chain {Monte} {Carlo} estimation},
 author={Zuo, Yijing and Qiu, Ruizhong and Chen, Lingjie and Tong, Hanghang},
@@ -248,12 +254,6 @@ year={2026},
 title={{DiffKGW:} Stealthy and robust diffusion model watermarking},
 author={Wei, Tianxin and Qiu, Ruizhong and Chen, Yifan and Qi, Yunzhe and Lin, Jiacheng and Bao, Wenxuan and Xu, Wenju and Nag, Sreyashi and Li, Ruirui and Lu, Hanqing and Wang, Zhengyang and Luo, Chen and Liu, Hui and Wang, Suhang and He, Jingrui and He, Qi and Tang, Xianfeng},
 journal={Transactions on Machine Learning Research},
-year={2026},
-}
-@article{qiu2026structuring,
-title={Structuring and tokenizing distributed user interest context for generative recommendation},
-author={Qiu, Ruizhong and Xia, Yinglong and Fu, Dongqi and Zeng, Hanqing and Chen, Ren and Fan, Xiangjun and Li, Hong and Yan, Hong and Tong, Hanghang},
-journal={The 5th Workshop on End-to-End Customer Journey Optimization},
 year={2026},
 }
 @article{jing2026tsaqa,

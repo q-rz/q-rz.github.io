@@ -26,6 +26,7 @@
 \Pub{AdaFuse: Adaptive ensemble decoding with test-time scaling for LLMs}{Chengming Cui*, Tianxin Wei*, Ziyi Chen, \BF{Ruizhong Qiu}, Zhichen Zeng, Zhining Liu, Xuying Ning, Duo Zhou, Jingrui He}{ACL}{2026}
 \Pub{Latte: Collaborative test-time adaptation of vision-language models in federated learning}{Wenxuan Bao, Ruxi Deng, \BF{Ruizhong Qiu}, Tianxin Wei, Hanghang Tong, Jingrui He}{ICCV}{2025}
 \Pub{Harnessing consistency for robust test-time LLM ensemble}{Zhichen Zeng, Qi Yu, Xiao Lin, \BF{Ruizhong Qiu}, Xuying Ning, Tianxin Wei, Yuchen Yan, Jingrui He, Hanghang Tong}{EACL}{2026}
+\Pub{Structuring and tokenizing distributed user interest context for generative recommendation}{\BF{Ruizhong Qiu}, Yinglong Xia, Dongqi Fu, Hanqing Zeng, Ren Chen, Xiangjun Fan, Hong Li, Hong Yan, Hanghang Tong}{RecSys Industry}{2026}
 \Pub{Graph diffusion history reconstruction via feasibility-aware Markov chain Monte Carlo estimation}{Yijing Zuo*, \BF{Ruizhong Qiu}*, Lingjie Chen, Hanghang Tong}{KDD}{2026}
 \Pub{PowerGrow: Feasible co-growth of structures and dynamics for power grid synthesis}{Xinyu He, Chenhan Xiao, Haoran Li, \BF{Ruizhong Qiu}, Zhe Xu, Yang Weng, Jingrui He, Hanghang Tong}{KDD}{2026}
 \Pub{Generalizable recommender system during temporal popularity distribution shifts}{Hyunsik Yoo, \BF{Ruizhong Qiu}, Charlie Xu, Fei Wang, Hanghang Tong}{KDD}{2025}
@@ -40,7 +41,6 @@
 \Pub{Group fairness via group consensus}{Eunice Chan*, Zhining Liu*, \BF{Ruizhong Qiu}, Yuheng Zhang, Ross Maciejewski, Hanghang Tong}{FAccT}{2024}
 \Pub{Pave your own path: Graph gradual domain adaptation on fused Gromov–Wasserstein geodesics}{Zhichen Zeng, \BF{Ruizhong Qiu}, Wenxuan Bao, Tianxin Wei, Xiao Lin, Yuchen Yan, Tarek F. Abdelzaher, Jiawei Han, Hanghang Tong}{TMLR}{2026}
 \Pub{DiffKGW: Stealthy and robust diffusion model watermarking}{Tianxin Wei, \BF{Ruizhong Qiu}, Yifan Chen, Yunzhe Qi, Jiacheng Lin, Wenxuan Bao, Wenju Xu, Sreyashi Nag, Ruirui Li, Hanqing Lu, Zhengyang Wang, Chen Luo, Hui Liu, Suhang Wang, Jingrui He, Qi He, Xianfeng Tang}{TMLR}{2026}
-\Pub{Structuring and tokenizing distributed user interest context for generative recommendation}{\BF{Ruizhong Qiu}, Yinglong Xia, Dongqi Fu, Hanqing Zeng, Ren Chen, Xiangjun Fan, Hong Li, Hong Yan, Hanghang Tong}{CJO@KDD}{2026}
 \Pub{TSAQA: Time series analysis question and answering benchmark}{Baoyu Jing, Sanhorn Chen, Lecheng Zheng, Boyu Liu, Zihao Li, Jiaru Zou, Tianxin Wei, Zhining Liu, Zhichen Zeng, \BF{Ruizhong Qiu}, Xiao Lin, Yuchen Yan, Qi Yu, Dongqi Fu, Jingrui He, Hanghang Tong}{GEM@ACL}{2026}
 \Pub{Efficient inference scaling for safety assurance}{\BF{Ruizhong Qiu}*, Gaotang Li*, Ting-Wei Li*, Tianxin Wei, Jingrui He, Hanghang Tong}{VLMRWD@NeurIPS}{2025}
 \Pub{FineAMP: Optimization-based automatic mixed precision quantization for efficient diffusion model inference}{Burak Bartan, \BF{Ruizhong Qiu}, Rafael Esteves, Yuwei Ren, Weiliang Will Zeng, An Chen}{OPT@NeurIPS}{2025}
