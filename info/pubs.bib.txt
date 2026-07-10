@@ -175,7 +175,7 @@ year={2026},
 @inproceedings{wei2026hierarchical,
 title={Hierarchical semantic tokenization for generative recommendation},
 author={Wei, Tianxin and Ning, Xuying and Chen, Xuxing and Qiu, Ruizhong and Hou, Yupeng and Xie, Yan and Yang, Shuang and Hua, Zhigang and He, Jingrui},
-booktitle={Proceedings of the Twentieth ACM Conference on Recommender Systems: Full Papers},
+booktitle={Proceedings of the Twentieth ACM Conference on Recommender Systems},
 year={2026},
 }
 @inproceedings{zuo2026graph,
