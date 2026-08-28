@@ -130,6 +130,24 @@ author={Wei, Tianxin and Zeng, Zhichen and Qiu, Ruizhong and Liu, Zhining and Ni
 booktitle={Third Conference on Language Modeling},
 year={2026},
 }
+@article{zhao2026recontext,
+title={{ReContext:} Recursive evidence replay as {LLM} harness for long-context reasoning},
+author={Zhao, Yanjun and Qiu, Ruizhong and Wei, Tianxin and Bei, Yuanchen and Liu, Zhining and Chen, Lingjie and Lourentzou, Ismini and Tong, Hanghang and He, Jingrui},
+journal={Findings of the Association for Computational Linguistics: EMNLP 2026},
+year={2026},
+}
+@inproceedings{zhou2026geometric,
+title={Geometric-disentangelment language model unlearning},
+author={Zhou, Duo and Zhang, Yuji and Wei, Tianxin and Qiu, Ruizhong and Yang, Ke and Lin, Xiao and Qian, Cheng and He, Jingrui and Tong, Hanghang and Ji, Heng and Zhang, Huan},
+booktitle={Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing},
+year={2026},
+}
+@inproceedings{zeng2026subspace,
+title={Subspace alignment for vision-language model test-time adaptation},
+author={Zeng, Zhichen and Bao, Wenxuan and Lin, Xiao and Qiu, Ruizhong and Wei, Tianxin and Ning, Xuying and Yan, Yuchen and Luo, Chen and Cheng, Monica Xiao and He, Jingrui and Tong, Hanghang},
+booktitle={Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing},
+year={2026},
+}
 @inproceedings{qiu2024tucket,
 title={{TUCKET:} A tensor time series data structure for efficient and accurate factor analysis over time ranges},
 author={Qiu, Ruizhong and Jang, Jun-Gi and Lin, Xiao and Liu, Lihui and Tong, Hanghang},
@@ -309,18 +327,6 @@ title={Agentic reasoning for large language models: {A} survey},
 author={Wei, Tianxin and Li, Ting-Wei and Liu, Zhining and Ning, Xuying and Yang, Ze and Zou, Jiaru and Zeng, Zhichen and Qiu, Ruizhong and Lin, Xiao and Fu, Dongqi and Li, Zihao and Ai, Mengting and Zhou, Duo and Bao, Wenxuan and Li, Yunzhe and Li, Gaotang and Qian, Cheng and Wang, Yu and Tang, Xiangru and Xiao, Yin and Fang, Liri and Liu, Hui and Tang, Xianfeng and Zhang, Yuji and Wang, Chi and You, Jiaxuan and Ji, Heng and Tong, Hanghang and He, Jingrui},
 journal={arXiv preprint},
 year={2026},
-}
-@article{zeng2026subspace,
-title={Subspace alignment for vision-language model test-time adaptation},
-author={Zeng, Zhichen and Bao, Wenxuan and Lin, Xiao and Qiu, Ruizhong and Wei, Tianxin and Ning, Xuying and Yan, Yuchen and Luo, Chen and Cheng, Monica Xiao and He, Jingrui and Tong, Hanghang},
-journal={arXiv preprint},
-year={2026},
-}
-@article{zhou2025geometric,
-title={Geometric disentangelment unlearning},
-author={Zhou, Duo and Zhang, Yuji and Wei, Tianxin and Qiu, Ruizhong and Yang, Ke and Lin, Xiao and Qian, Cheng and He, Jingrui and Tong, Hanghang and Ji, Heng and Zhang, Huan},
-journal={arXiv preprint},
-year={2025},
 }
 @article{zeng2025hierarchical,
 title={Hierarchical {LoRA} {MoE} for efficient {CTR} model scaling},
