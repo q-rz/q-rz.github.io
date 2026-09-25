@@ -82,6 +82,12 @@ author={Qiu, Ruizhong and Zeng, Weiliang Will and Ezick, James and Lott, Christo
 booktitle={The Thirteenth International Conference on Learning Representations},
 year={2025},
 }
+@inproceedings{zou2026recursive,
+title={Recursive multi-agent systems},
+author={Zou, Jiaru and Pan, Rui and Qiu, Ruizhong and Lu, Pan and Diao, Shizhe and Jiang, Jindong and Tong, Hanghang and Zhang, Tong and Buehler, Markus J. and He, Jingrui and Zou, James},
+booktitle={Advances in Neural Information Processing Systems 39},
+year={2026},
+}
 @inproceedings{li2025graph,
 title={Graph data selection for domain adaptation: {A} model-free approach},
 author={Li, Ting-Wei and Qiu, Ruizhong and Tong, Hanghang},
@@ -309,12 +315,6 @@ title={Haystack engineering: {Context} engineering meets the long-context challe
 author={Li, Mufei and Fu, Dongqi and Wang, Limei and Zhang, Si and Zeng, Hanqing and Sancak, Kaan and Qiu, Ruizhong and Wang, Haoyu Peter and He, Xiaoxin and Bresson, Xavier and Xia, Yinglong and Sun, Chonglin and Li, Pan},
 journal={NeurIPS 2025 Workshop on Evaluating the Evolving LLM Lifecycle: Benchmarks, Emergent Abilities, and Scaling},
 year={2025},
-}
-@article{yang2026recursive,
-title={Recursive multi-agent systems},
-author={Yang, Xiyuan and Zou, Jiaru and Pan, Rui and Qiu, Ruizhong and Lu, Pan and Diao, Shizhe and Jiang, Jindong and Tong, Hanghang and Zhang, Tong and Buehler, Markus J. and He, Jingrui and Zou, James},
-journal={arXiv preprint},
-year={2026},
 }
 @article{zeng2026polymerarena,
 title={{PolymerArena:} Benchmarking multi-task graph learning models on polymer property prediction},
