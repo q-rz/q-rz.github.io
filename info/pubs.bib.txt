@@ -292,6 +292,12 @@ author={Jing, Baoyu and Chen, Sanhorn and Zheng, Lecheng and Liu, Boyu and Li, Z
 journal={The Fifth Generation, Evaluation, & Metrics Workshop},
 year={2026},
 }
+@article{zheng2026rethinking,
+title={Rethinking fair anomaly detection via representation learning},
+author={Zheng, Lecheng and Wu, Ziwei and Yu, Yuancheng and Qiu, Ruizhong and Birge, John and He, Jingrui},
+journal={NeurIPS 2026 Workshop on Trustworthy AI for Good},
+year={2026},
+}
 @article{qiu2025efficient,
 title={Efficient inference scaling for safety assurance},
 author={Qiu, Ruizhong and Li, Gaotang and Li, Ting-Wei and Wei, Tianxin and He, Jingrui and Tong, Hanghang},
@@ -337,12 +343,6 @@ year={2025},
 @article{chen2024wapiti,
 title={{WAPITI:} A watermark for finetuned open-source {LLMs}},
 author={Chen, Lingjie and Qiu, Ruizhong and Yuan, Siyu and Liu, Zhining and Wei, Tianxin and Yoo, Hyunsik and Zeng, Zhichen and Yang, Deqing},
-journal={arXiv preprint},
-year={2024},
-}
-@article{wu2024fair,
-title={Fair anomaly detection for imbalanced groups},
-author={Wu, Ziwei and Zheng, Lecheng and Yu, Yuancheng and Qiu, Ruizhong and Birge, John and He, Jingrui},
 journal={arXiv preprint},
 year={2024},
 }
