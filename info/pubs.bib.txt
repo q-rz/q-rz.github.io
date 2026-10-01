@@ -286,6 +286,12 @@ author={Wei, Tianxin and Qiu, Ruizhong and Chen, Yifan and Qi, Yunzhe and Lin, J
 journal={Transactions on Machine Learning Research},
 year={2026},
 }
+@article{hu2026probepo,
+title={{ProbePO:} Sparse probes, redistributed credit for critic-free {LLM} reinforcement learning},
+author={Hu, Diyi and Qiu, Ruizhong and Qiu, Lin and Tong, Hanghang and Zeng, Hanqing},
+journal={NeurIPS 2026 Workshop on Transitioning from Pre-Training to Post-Training},
+year={2026},
+}
 @article{jing2026tsaqa,
 title={{TSAQA:} Time series analysis question and answering benchmark},
 author={Jing, Baoyu and Chen, Sanhorn and Zheng, Lecheng and Liu, Boyu and Li, Zihao and Zou, Jiaru and Wei, Tianxin and Liu, Zhining and Zeng, Zhichen and Qiu, Ruizhong and Lin, Xiao and Yan, Yuchen and Yu, Qi and Fu, Dongqi and He, Jingrui and Tong, Hanghang},
