@@ -155,7 +155,7 @@ journal={Findings of the Association for Computational Linguistics: EMNLP 2026},
 year={2026},
 }
 @inproceedings{zhou2026geometric,
-title={Geometric-disentangelment language model unlearning},
+title={Geometric-disentangelment unlearning},
 author={Zhou, Duo and Zhang, Yuji and Wei, Tianxin and Qiu, Ruizhong and Yang, Ke and Lin, Xiao and Qian, Cheng and He, Jingrui and Tong, Hanghang and Ji, Heng and Zhang, Huan},
 booktitle={Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing},
 year={2026},

@@ -24,7 +24,7 @@
 \Pub{Prune as you generate: Online rollout pruning for faster and better RLVR}{Haobo Xu, Sirui Chen, \BF{Ruizhong Qiu}, Yuchen Yan, Chen Luo, Monica Cheng, Jingrui He, Hanghang Tong}{ACL}{2026}
 \Pub{AdaFuse: Adaptive ensemble decoding with test-time scaling for LLMs}{Chengming Cui*, Tianxin Wei*, Ziyi Chen, \BF{Ruizhong Qiu}, Zhichen Zeng, Zhining Liu, Xuying Ning, Duo Zhou, Jingrui He}{ACL}{2026}
 \Pub{ReContext: Recursive evidence replay as LLM harness for long-context reasoning}{Yanjun Zhao*, \BF{Ruizhong Qiu}*, Tianxin Wei, Yuanchen Bei, Zhining Liu, Lingjie Chen, Ismini Lourentzou, Hanghang Tong, Jingrui He}{EMNLP}{2026}
-\Pub{Geometric-disentangelment language model unlearning}{Duo Zhou*, Yuji Zhang*, Tianxin Wei, \BF{Ruizhong Qiu}, Ke Yang, Xiao Lin, Cheng Qian, Jingrui He, Hanghang Tong, Heng Ji, Huan Zhang}{EMNLP}{2026}
+\Pub{Geometric-disentangelment unlearning}{Duo Zhou*, Yuji Zhang*, Tianxin Wei, \BF{Ruizhong Qiu}, Ke Yang, Xiao Lin, Cheng Qian, Jingrui He, Hanghang Tong, Heng Ji, Huan Zhang}{EMNLP}{2026}
 \Pub{Subspace alignment for vision-language model test-time adaptation}{Zhichen Zeng, Wenxuan Bao, Xiao Lin, \BF{Ruizhong Qiu}, Tianxin Wei, Xuying Ning, Yuchen Yan, Chen Luo, Monica Xiao Cheng, Jingrui He, Hanghang Tong}{EMNLP}{2026}
 \Pub{Harnessing consistency for robust test-time LLM ensemble}{Zhichen Zeng, Qi Yu, Xiao Lin, \BF{Ruizhong Qiu}, Xuying Ning, Tianxin Wei, Yuchen Yan, Jingrui He, Hanghang Tong}{EACL}{2026}
 \Pub{Latte: Collaborative test-time adaptation of vision-language models in federated learning}{Wenxuan Bao, Ruxi Deng, \BF{Ruizhong Qiu}, Tianxin Wei, Hanghang Tong, Jingrui He}{ICCV}{2025}
