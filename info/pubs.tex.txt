@@ -41,7 +41,7 @@
 \Pub{Mixture of sequence: Theme-aware mixture-of-experts for long-sequence recommendation}{Xiao Lin, Zhicheng Tang, Weilin Cong, Mengyue Hang, Kai Wang, Yajuan Wang, Zhichen Zeng, Ting-Wei Li, Hyunsik Yoo, Zhining Liu, Xuying Ning, \BF{Ruizhong Qiu}, Wen-Yen Chen, Shuo Chang, Rong Jin, Huayu Li, Hanghang Tong}{WWW}{2026}
 \Pub{Ensuring user-side fairness in dynamic recommender systems}{Hyunsik Yoo, Zhichen Zeng, Jian Kang, \BF{Ruizhong Qiu}, David Zhou, Zhining Liu, Fei Wang, Charlie Xu, Eunice Chan, Hanghang Tong}{WWW}{2024}
 \Pub{Structuring and tokenizing distributed user interest context for generative recommendation}{\BF{Ruizhong Qiu}, Yinglong Xia, Dongqi Fu, Hanqing Zeng, Ren Chen, Xiangjun Fan, Hong Li, Hong Yan, Hanghang Tong}{RecSys}{2026}
-\Pub{Hierarchical semantic tokenization for generative recommendation}{Tianxin Wei*, Xuying Ning*, Xuxing Chen*, \BF{Ruizhong Qiu}, Yupeng Hou, Yan Xie, Shuang Yang, Zhigang Hua, Jingrui He}{RecSys}{2026}
+\Pub{CoFiRec: Coarse-to-Fine Tokenization for Generative Recommendation}{Tianxin Wei*, Xuying Ning*, Xuxing Chen*, \BF{Ruizhong Qiu}, Yupeng Hou, Yan Xie, Shuang Yang, Zhigang Hua, Jingrui He}{RecSys}{2026}
 \Pub{On the sensitivity of individual fairness: Measures and robust algorithms}{Xinyu He, Jian Kang, \BF{Ruizhong Qiu}, Fei Wang, Jose Sepulveda, Hanghang Tong}{CIKM}{2024}
 \Pub{Group fairness via group consensus}{Eunice Chan*, Zhining Liu*, \BF{Ruizhong Qiu}, Yuheng Zhang, Ross Maciejewski, Hanghang Tong}{FAccT}{2024}
 \Pub{Pave your own path: Graph gradual domain adaptation on fused Gromov–Wasserstein geodesics}{Zhichen Zeng, \BF{Ruizhong Qiu}, Wenxuan Bao, Tianxin Wei, Xiao Lin, Yuchen Yan, Tarek F. Abdelzaher, Jiawei Han, Hanghang Tong}{TMLR}{2026}
